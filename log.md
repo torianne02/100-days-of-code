@@ -7,6 +7,8 @@
 **Thoughts**: I am happy to be completing the basic requirements of this project, but even more excited about the fact that my mind is constantly rolling with new ideas/features I could add to it in the future.
 
 **Link(s) to work**: [PintTrackr](https://github.com/torianne02/pint-trackr-rails-js)
+[Kata 1](https://www.codewars.com/kata/5bb904724c47249b10000131)
+[Kata 2](https://www.codewars.com/kata/558fc85d8fd1938afb000014)
 
 
 <!-- ### Day 1: June 27, Monday
