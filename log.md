@@ -6,9 +6,10 @@
 
 **Thoughts**: I am happy to be completing the basic requirements of this project, but even more excited about the fact that my mind is constantly rolling with new ideas/features I could add to it in the future.
 
-**Link(s) to work**: [PintTrackr](https://github.com/torianne02/pint-trackr-rails-js)
-[Total amount of points](https://www.codewars.com/kata/5bb904724c47249b10000131)
-[Sum of two lowest positive integers](https://www.codewars.com/kata/558fc85d8fd1938afb000014)
+**Link(s) to work**:
+1. [PintTrackr](https://github.com/torianne02/pint-trackr-rails-js)
+2. [Total amount of points](https://www.codewars.com/kata/5bb904724c47249b10000131)
+3. [Sum of two lowest positive integers](https://www.codewars.com/kata/558fc85d8fd1938afb000014)
 
 
 ### Day 2: January 5, 2019
