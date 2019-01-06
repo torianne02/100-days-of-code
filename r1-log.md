@@ -13,8 +13,13 @@ Completed 2 Javascript Kata's on Codewars.
 
 ### R1D2
 Completed 4 Kata's on Codewars with a partner, plus 1 other one solved verbally. The goal was to practice my verbal communication while coding.
+
 [Keep Hydrated!](https://www.codewars.com/kata/582cb0224e56e068d800003c)
+
 [Remove String Spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5)
+
 [Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right](https://www.codewars.com/kata/57faf7275c991027af000679)
+
 [Capitalization and Mutability](https://www.codewars.com/kata/595970246c9b8fa0a8000086)
+
 [Are You Playing Banjo?](https://www.codewars.com/kata/are-you-playing-banjo)
