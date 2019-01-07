@@ -23,3 +23,16 @@ Completed 4 Kata's on Codewars with a partner, plus 1 other one solved verbally.
 [Capitalization and Mutability](https://www.codewars.com/kata/595970246c9b8fa0a8000086)
 
 [Are You Playing Banjo?](https://www.codewars.com/kata/are-you-playing-banjo)
+
+### R1D3
+My fiance, a data engineer, did a quick SQL refresher with me. We then spent the next hour and a half working on SQL problems on codewars and W3Schools. We also completed a SQL quiz on W3Schools, as well as a JS one.  
+
+[W3Schools SQL Quiz](https://www.w3schools.com/sql/sql_quiz.asp)
+
+[W3Schools JS Quiz](https://www.w3schools.com/js/js_quiz.asp)
+
+[Best-Selling Books(SQL for Beginners #5)](https://www.codewars.com/kata/591127cbe8b9fb05bd00004b)
+
+[SQL Basics: Simple JOIN with COUNT](https://www.codewars.com/kata/580918e24a85b05ad000010c)
+
+[Adults only(SQL for Beginners #1)](https://www.codewars.com/kata/590a95eede09f87472000213)

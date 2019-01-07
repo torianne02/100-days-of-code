@@ -16,7 +16,7 @@
 
 **Today's Progress**: I completed 6 Kata's on Codewars, in Javascript and Ruby.
 
-**Thoughts** I have felt like I need some practice communicating my code and thought processes while trying to work through a problem, so I volunteered my fiance to verbally work through a few Kata's with me. It was very helpful to learn what to say and not to say. It was also great getting in the practice of coding through a few problems with a partner.
+**Thoughts**: I have felt like I need some practice communicating my code and thought processes while trying to work through a problem, so I volunteered my fiance to verbally work through a few Kata's with me. It was very helpful to learn what to say and not to say. It was also great getting in the practice of coding through a few problems with a partner.
 
 **Link(s) to work**
 1. [Keep Hydrated!](https://www.codewars.com/kata/582cb0224e56e068d800003c)
@@ -24,3 +24,17 @@
 3. [Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right](https://www.codewars.com/kata/57faf7275c991027af000679)
 4. [Capitalization and Mutability](https://www.codewars.com/kata/595970246c9b8fa0a8000086)
 5. [Are You Playing Banjo?](https://www.codewars.com/kata/are-you-playing-banjo)
+
+
+### Day 3: January 6, 2019
+
+**Today's Progress**: My fiance, a data engineer, did a quick SQL refresher with me. We then spent the next hour and a half working on SQL problems on codewars and W3Schools. We also completed a SQL quiz on W3Schools, as well as a JS one.
+
+**Thoughts**: I learned SQL in my bootcamp at Flatiron and felt really comfortable working with SQLite within Ruby. It was really nice getting to work with SQL statements again after a few months of putting it on the back burner and still knowing/remembering how it all works. It felt like I was brushing off the cob webs. 
+
+**Link(s) to work**
+1. [W3Schools SQL Quiz](https://www.w3schools.com/sql/sql_quiz.asp)
+2. [W3Schools JS Quiz](https://www.w3schools.com/js/js_quiz.asp)
+3. [Best-Selling Books(SQL for Beginners #5)](https://www.codewars.com/kata/591127cbe8b9fb05bd00004b)
+4. [SQL Basics: Simple JOIN with COUNT](https://www.codewars.com/kata/580918e24a85b05ad000010c)
+5. [Adults only(SQL for Beginners #1)](https://www.codewars.com/kata/590a95eede09f87472000213)
