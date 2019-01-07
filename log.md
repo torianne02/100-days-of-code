@@ -30,7 +30,7 @@
 
 **Today's Progress**: My fiance, a data engineer, did a quick SQL refresher with me. We then spent the next hour and a half working on SQL problems on codewars and W3Schools. We also completed a SQL quiz on W3Schools, as well as a JS one.
 
-**Thoughts**: I learned SQL in my bootcamp at Flatiron and felt really comfortable working with SQLite within Ruby. It was really nice getting to work with SQL statements again after a few months of putting it on the back burner and still knowing/remembering how it all works. It felt like I was brushing off the cob webs. 
+**Thoughts**: I learned SQL in my bootcamp at Flatiron and felt really comfortable working with SQLite within Ruby. It was really nice getting to work with SQL statements again after a few months of putting it on the back burner and still knowing/remembering how it all works. It felt like I was brushing off the cob webs.
 
 **Link(s) to work**
 1. [W3Schools SQL Quiz](https://www.w3schools.com/sql/sql_quiz.asp)
@@ -38,3 +38,13 @@
 3. [Best-Selling Books(SQL for Beginners #5)](https://www.codewars.com/kata/591127cbe8b9fb05bd00004b)
 4. [SQL Basics: Simple JOIN with COUNT](https://www.codewars.com/kata/580918e24a85b05ad000010c)
 5. [Adults only(SQL for Beginners #1)](https://www.codewars.com/kata/590a95eede09f87472000213)
+
+
+### Day 4: January 7, 2019
+
+**Today's Progress**: I spent the day working on my REACT portfolio project for Flatiron. I focused on my rails API backend. I spent a lot of time reading up on how to call an external API within rails.
+
+**Thoughts**: Today was frustrating. I had a difficult time finding documents that were helpful. Once I did, I felt burnt out. I didn't make as much progress as I wish I would have, but that's okay. We learn from the bad days most.  
+
+**Link(s) to work**:
+1. [Hikester API](https://github.com/torianne02/hikester-api)

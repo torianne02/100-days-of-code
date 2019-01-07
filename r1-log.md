@@ -36,3 +36,7 @@ My fiance, a data engineer, did a quick SQL refresher with me. We then spent the
 [SQL Basics: Simple JOIN with COUNT](https://www.codewars.com/kata/580918e24a85b05ad000010c)
 
 [Adults only(SQL for Beginners #1)](https://www.codewars.com/kata/590a95eede09f87472000213)
+
+### R1D4
+I spent time today working on my rails backend for my REACT portfolio project.
+[Hikester](https://github.com/torianne02/hikester-api)
