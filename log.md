@@ -48,3 +48,13 @@
 
 **Link(s) to work**:
 1. [Hikester API](https://github.com/torianne02/hikester-api)
+
+### Day 5: January 8, 2019
+
+**Today's Progress**: Today, I worked on my REACT portfolio project again. I finished creating my external API call via backend (rails). I then created the frontend repo for this project. I learned how to install and the usefulness of react-router.
+
+**Thoughts**: Getting my one hour of code in today was a little stressful, as I am preparing for my mock cultural interview with Flatiron. The morning and early afternoon flew by so quickly that I completely lost track of time. Time management skills need a little bit more work, but what I did get to code was interesting and I learned a few new things.
+
+**Link(s) to work**:
+1. [Hikester API](https://github.com/torianne02/hikester-api)
+2. [Hikester Frontend](https://github.com/torianne02/hikester-frontend)
