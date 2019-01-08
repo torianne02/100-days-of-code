@@ -5,15 +5,19 @@ The log of my #100DaysOfCode challenge. Started on [January 4, Friday, 2019].
 ## Log
 
 ### R1D1
-Completed final touches on a portfolio project. [PintTrackr](https://github.com/torianne02/pint-trackr-rails-js)
+Completed final touches on a portfolio project.
+
+[PintTrackr](https://github.com/torianne02/pint-trackr-rails-js)
 
 Completed 2 Javascript Kata's on Codewars.
+
 [Total amount of points](https://www.codewars.com/kata/5bb904724c47249b10000131)
 
 [Sum of two lowest positive integers](https://www.codewars.com/kata/558fc85d8fd1938afb000014)
 
 ### R1D2
 Completed 4 Kata's on Codewars with a partner, plus 1 other one solved verbally. The goal was to practice my verbal communication while coding.
+
 [Keep Hydrated!](https://www.codewars.com/kata/582cb0224e56e068d800003c)
 
 [Remove String Spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5)
@@ -26,6 +30,7 @@ Completed 4 Kata's on Codewars with a partner, plus 1 other one solved verbally.
 
 ### R1D3
 My fiance, a data engineer, did a quick SQL refresher with me. We then spent the next hour and a half working on SQL problems on codewars and W3Schools. We also completed a SQL quiz on W3Schools, as well as a JS one.  
+
 [W3Schools SQL Quiz](https://www.w3schools.com/sql/sql_quiz.asp)
 
 [W3Schools JS Quiz](https://www.w3schools.com/js/js_quiz.asp)
@@ -38,10 +43,12 @@ My fiance, a data engineer, did a quick SQL refresher with me. We then spent the
 
 ### R1D4
 I spent time today working on my rails backend for my REACT portfolio project.
+
 [Hikester](https://github.com/torianne02/hikester-api)
 
 ### R1D5
 I spent today working on creating my external API call for rails backend and created the repo for project frontend.
+
 [Hikester API](https://github.com/torianne02/hikester-api)
 
 [Hikester Frontend](https://github.com/torianne02/hikester-frontend)
