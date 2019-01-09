@@ -44,7 +44,7 @@ My fiance, a data engineer, did a quick SQL refresher with me. We then spent the
 ### R1D4
 I spent time today working on my rails backend for my REACT portfolio project.
 
-[Hikester](https://github.com/torianne02/hikester-api)
+[Hikester API](https://github.com/torianne02/hikester-api)
 
 ### R1D5
 I spent today working on creating my external API call for rails backend and created the repo for project frontend.
@@ -52,3 +52,8 @@ I spent today working on creating my external API call for rails backend and cre
 [Hikester API](https://github.com/torianne02/hikester-api)
 
 [Hikester Frontend](https://github.com/torianne02/hikester-frontend)
+
+### R1D6
+Today, I completed the REACT tic-tac-toe tutorial.
+
+[REACT Tutorial](https://reactjs.org/tutorial/tutorial.html#completing-the-game)

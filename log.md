@@ -58,3 +58,12 @@
 **Link(s) to work**:
 1. [Hikester API](https://github.com/torianne02/hikester-api)
 2. [Hikester Frontend](https://github.com/torianne02/hikester-frontend)
+
+### Day 6: January 9, 2019
+
+**Today's Progress**: Today, I was getting a little confused while trying to work on my REACT project for Flatiron, so I decided to turn to Google. There I found and went through the REACT tic-tac-toe tutorial.
+
+**Thoughts**: I really enjoyed the tutorial today and plan to work through the extra steps that they mention at the end.
+
+**Link(s) to work**:
+1. [REACT Tutorial](https://reactjs.org/tutorial/tutorial.html#completing-the-game)
