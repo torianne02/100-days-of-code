@@ -57,3 +57,14 @@ I spent today working on creating my external API call for rails backend and cre
 Today, I completed the REACT tic-tac-toe tutorial.
 
 [REACT Tutorial](https://reactjs.org/tutorial/tutorial.html#completing-the-game)
+
+### R1D7
+I completed 4 Ruby Kata's on Codewars.
+
+[Detect Pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)
+
+[Regex Password Validation](https://www.codewars.com/kata/52e1476c8147a7547a000811)
+
+[Reverse words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)
+
+[Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381)

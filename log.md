@@ -67,3 +67,18 @@
 
 **Link(s) to work**:
 1. [REACT Tutorial](https://reactjs.org/tutorial/tutorial.html#completing-the-game)
+
+### Day 7: January 10, 2019
+
+**Today's Progress**: Yesterday I scheduled my mock technical interview, so today I spent my hour working on Ruby Katas on Codewars.
+
+**Thoughts**: I did 2 problems with regex and it was really frustrating. Regex has always been something I have had difficulty working with, so today was great practice.
+
+**Link(s) to work**:
+1. [Detect Pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)
+
+2. [Regex Password Validation](https://www.codewars.com/kata/52e1476c8147a7547a000811)
+
+3. [Reverse words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)
+
+4. [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381)
