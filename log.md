@@ -76,9 +76,16 @@
 
 **Link(s) to work**:
 1. [Detect Pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)
-
 2. [Regex Password Validation](https://www.codewars.com/kata/52e1476c8147a7547a000811)
-
 3. [Reverse words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)
-
 4. [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381)
+
+### Day 8: January 11, 2019
+
+**Today's Progress**: I worked through w3schools SQL exercises. I also worked on my Rails API for my Hikester web-application.
+
+**Thoughts**: I felt productive and great going through the SQL exercises. I felt the complete and total opposite once I started working on my project. I am feeling foggy in the head today and having a hard time processing next steps. I am choosing to put it down at the moment and I'll pick it back up tomorrow with a hopefully clear head.
+
+**Link(s) to work**:
+1. [w3schools SQL Exercises](https://www.w3schools.com/sql/exercise.asp?filename=exercise_database7)
+2. [Hikester API](https://github.com/torianne02/hikester-api)

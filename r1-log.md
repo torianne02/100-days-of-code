@@ -68,3 +68,10 @@ I completed 4 Ruby Kata's on Codewars.
 [Reverse words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)
 
 [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381)
+
+### R1D8
+I worked on SQL exercises as well as my REACT project's API.
+
+[w3schools SQL Exercises](https://www.w3schools.com/sql/exercise.asp?filename=exercise_database7)
+
+[Hikester API](https://github.com/torianne02/hikester-api)
