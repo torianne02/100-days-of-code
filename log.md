@@ -89,3 +89,25 @@
 **Link(s) to work**:
 1. [w3schools SQL Exercises](https://www.w3schools.com/sql/exercise.asp?filename=exercise_database7)
 2. [Hikester API](https://github.com/torianne02/hikester-api)
+
+### Day 9: January 12, 2019
+**Today's Progress**: I did a lot of research in regards to how to develop my components for my React project. I spoke out loud with my fiance about my plans and why I'd like to do it the way I want too.
+
+**Thoughts**: I felt pretty bad that I did no live coding. I dedicated an hour of my day to the pseudo-code for my project and learning to discuss my thought processes out loud. I feel it was beneficial.
+
+**Link(s) to work**:
+1. [Hikester API](https://github.com/torianne02/hikester-api)
+
+### Day 10: January 13, 2019
+**Today's Progress**: I decided to spend time working on more Ruby Kata's on Codewars.
+
+**Thoughts**: The problems on Codewars today were challenging and required me to think deeply and arithmetically, which I'm not accustomed to. I really thought it was a great learning eperience.
+
+**Link(s) to work**:
+1. [DNA to RNA Conversion](https://www.codewars.com/kata/5556282156230d0e5e000089)
+2. [Are They Opposite?](https://www.codewars.com/kata/574b1916a3ebd6e4fa0012e7)
+3. [Grasshopper - Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030)
+4. [Sum of odd numbers](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064)
+5. [The Feast of Many Beasts](https://www.codewars.com/kata/5aa736a455f906981800360d)
+6. [L1: Set Alarm](https://www.codewars.com/kata/568dcc3c7f12767a62000038)
+7. [Remove duplicate words](https://www.codewars.com/kata/5b39e3772ae7545f650000fc)

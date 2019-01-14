@@ -75,3 +75,23 @@ I worked on SQL exercises as well as my REACT project's API.
 [w3schools SQL Exercises](https://www.w3schools.com/sql/exercise.asp?filename=exercise_database7)
 
 [Hikester API](https://github.com/torianne02/hikester-api)
+
+### R1D9
+I worked on pseudo-code for my React project, as well as discussing my thought process out loud with another person. 
+
+### R1D10
+Today, I worked on Ruby Kata's on Codewars.
+
+[DNA to RNA Conversion](https://www.codewars.com/kata/5556282156230d0e5e000089)
+
+[Are They Opposite?](https://www.codewars.com/kata/574b1916a3ebd6e4fa0012e7)
+
+[Grasshopper - Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030)
+
+[Sum of odd numbers](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064)
+
+[The Feast of Many Beasts](https://www.codewars.com/kata/5aa736a455f906981800360d)
+
+[L1: Set Alarm](https://www.codewars.com/kata/568dcc3c7f12767a62000038)
+
+[Remove duplicate words](https://www.codewars.com/kata/5b39e3772ae7545f650000fc)
