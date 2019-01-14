@@ -77,7 +77,7 @@ I worked on SQL exercises as well as my REACT project's API.
 [Hikester API](https://github.com/torianne02/hikester-api)
 
 ### R1D9
-I worked on pseudo-code for my React project, as well as discussing my thought process out loud with another person. 
+I worked on pseudo-code for my React project, as well as discussing my thought process out loud with another person.
 
 ### R1D10
 Today, I worked on Ruby Kata's on Codewars.
@@ -95,3 +95,6 @@ Today, I worked on Ruby Kata's on Codewars.
 [L1: Set Alarm](https://www.codewars.com/kata/568dcc3c7f12767a62000038)
 
 [Remove duplicate words](https://www.codewars.com/kata/5b39e3772ae7545f650000fc)
+
+### R1D11
+Tomorrow I have a Javascript assessment for my JS final project. I decided to spend the day today studying and practicing variable hoisting and function hoisting. I did all my practice problems using repl.it. 

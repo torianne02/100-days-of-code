@@ -111,3 +111,9 @@
 5. [The Feast of Many Beasts](https://www.codewars.com/kata/5aa736a455f906981800360d)
 6. [L1: Set Alarm](https://www.codewars.com/kata/568dcc3c7f12767a62000038)
 7. [Remove duplicate words](https://www.codewars.com/kata/5b39e3772ae7545f650000fc)
+
+### Day 11: January 14, 2019
+
+**Today's Progress**: Tomorrow I have a Javascript assessment for my JS final project. I decided to spend the day today studying and practicing variable hoisting and function hoisting. I did all my practice problems using repl.it.
+
+**Thoughts**: I really feel like I've got a grasp on both variable and function hoisting in JS. Hopefully my assessment tomorrow goes really well!
