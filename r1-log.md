@@ -97,4 +97,14 @@ Today, I worked on Ruby Kata's on Codewars.
 [Remove duplicate words](https://www.codewars.com/kata/5b39e3772ae7545f650000fc)
 
 ### R1D11
-Tomorrow I have a Javascript assessment for my JS final project. I decided to spend the day today studying and practicing variable hoisting and function hoisting. I did all my practice problems using repl.it. 
+Tomorrow I have a Javascript assessment for my JS final project. I decided to spend the day today studying and practicing variable hoisting and function hoisting. I did all my practice problems using repl.it.
+
+### R1D12
+Today I had the first half of my assessment for Javascript. I had to walk through my project and do some live coding. I was tasked with adding a 'sort' button to the current users beer list. I created an event listener using jQuery and retrieved the JSON data needed via an AJAX call. I then used existing code to display the information onto the view page. I also studied more for the JS fundamental portion of the assessment.
+
+[PintTrackr](https://github.com/torianne02/pint-trackr-rails-js)
+
+### R1D13
+Today I had the second half of my assessment for Javascript. The second half is geared towards JS/ES6 fundamentals. We reviewed arrow functions, variable declarations using var, const, and let, hoisting, scope, this, and closures. I have also worked on a whole entire new REACT project and getting that API call sorted out.
+
+[Weather-Cast API](https://github.com/torianne02/weather-cast-api)

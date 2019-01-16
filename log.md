@@ -117,3 +117,22 @@
 **Today's Progress**: Tomorrow I have a Javascript assessment for my JS final project. I decided to spend the day today studying and practicing variable hoisting and function hoisting. I did all my practice problems using repl.it.
 
 **Thoughts**: I really feel like I've got a grasp on both variable and function hoisting in JS. Hopefully my assessment tomorrow goes really well!
+
+### Day 12: January 15, 2019
+
+**Today's Progress**: Today I had the first half of my assessment for Javascript. I had to walk through my project and do some live coding. I was tasked with adding a 'sort' button to the current users beer list. I created an event listener using jQuery and retrieved the JSON data needed via an AJAX call. I then used existing code to display the information onto the view page. I also studied more for the JS fundamental portion of the assessment.
+
+**Thoughts**: I feel so incredibly great about this assessment. I knew what I was doing and felt confident. The instructor told me afterwards that he was impressed with my live coding skills and that I did a particularly great job at articulating my thought process. Overall, I'm very pleased and ending the day feeling confident. Part 2 of my assessment is tomorrow.
+
+**Link(s) to work**:
+1. [PintTrackr](https://github.com/torianne02/pint-trackr-rails-js)
+
+### Day 13: January 16, 2019
+
+**Today's Progress**: Today I had the second half of my assessment for Javascript. The second half is geared towards JS/ES6 fundamentals. We reviewed arrow functions, variable declarations using var, const, and let, hoisting, scope, this, and closures. I have also worked on a whole entire new REACT project and getting that API call sorted out.
+
+**Thoughts**: I PASSED MY ASSESSMENT! If the all caps doesn't already say it, I am so ecstatic to finally be finished with this section. I hit so many bumps in the road during this project and I am glad to be moving on to the next section. One step closer to graduation!! Also, the instructor said I did an outstanding job today and was impressed with how prepared I was. My confidence is through the roof at the moment. Now, excuse me while I go ride on this high for the rest of the day!
+
+
+**Link(s) to work**:
+1. [Weather-Cast API](https://github.com/torianne02/weather-cast-api)
