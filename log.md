@@ -133,6 +133,5 @@
 
 **Thoughts**: I PASSED MY ASSESSMENT! If the all caps doesn't already say it, I am so ecstatic to finally be finished with this section. I hit so many bumps in the road during this project and I am glad to be moving on to the next section. One step closer to graduation!! Also, the instructor said I did an outstanding job today and was impressed with how prepared I was. My confidence is through the roof at the moment. Now, excuse me while I go ride on this high for the rest of the day!
 
-
 **Link(s) to work**:
 1. [Weather-Cast API](https://github.com/torianne02/weather-cast-api)
