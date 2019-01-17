@@ -135,3 +135,13 @@
 
 **Link(s) to work**:
 1. [Weather-Cast API](https://github.com/torianne02/weather-cast-api)
+
+### Day 14: January 17, 2019
+
+**Today's Progress**: Today I worked primarily on my Rails API for my final project at Flatiron. I wrote my README. I worked on the forecast_controller.rb as well as creating the forecast model and routes. I also discovered, studied, and implemented `responders gem`. I also started work on my React frontend.
+
+**Thoughts**: I feel like I made great progress in regards to my API today. I learned something new (`responders gem`), which is always exciting and fun to me. I am happy that I decided to start on a different idea for this project. The last one had my mind clogged and I was stuck in the same position for a few days. Sometimes you just need to move on and come back to it later, which I will eventually.
+
+**Link(s) to work**:
+1. [Weather-Caster API](https://github.com/torianne02/weather-cast-api)
+2. [Weather-Caster Frontend](https://github.com/torianne02/weather-cast-frontend)

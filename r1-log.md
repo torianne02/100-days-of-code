@@ -108,3 +108,11 @@ Today I had the first half of my assessment for Javascript. I had to walk throug
 Today I had the second half of my assessment for Javascript. The second half is geared towards JS/ES6 fundamentals. We reviewed arrow functions, variable declarations using var, const, and let, hoisting, scope, this, and closures. I have also worked on a whole entire new REACT project and getting that API call sorted out.
 
 [Weather-Cast API](https://github.com/torianne02/weather-cast-api)
+
+
+### R1D14
+Today I worked on my Rails API for my final project at Flatiron. I wrote my README. I worked on the forecast_controller.rb as well as creating the forecast model and routes. I also discovered, studied, and implemented `responders gem`. I began working on the React frontend of my project as well.
+
+[Weather-Caster API](https://github.com/torianne02/weather-cast-api)
+
+[Weather-Caster Frontend](https://github.com/torianne02/weather-cast-frontend)
