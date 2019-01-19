@@ -145,3 +145,13 @@
 **Link(s) to work**:
 1. [Weather-Caster API](https://github.com/torianne02/weather-cast-api)
 2. [Weather-Caster Frontend](https://github.com/torianne02/weather-cast-frontend)
+
+### Day 15: January 18, 2019
+
+**Today's Progress**: Today I relentlessly worked on my React project. I discovered a gem called `geocoder` and put it to use within my API. I also started work on my React components, actions, and reducer. I ended up deciding that I need to completely turn my API upside down and redo it, so that's fun! Stay tuned.
+
+**Thoughts**: I truly felt like I made great progress today, but after discussing my app with my fiance, realized that I was doing my API completely wrong (structurally). That's the great thing about talking through things with others, you realize that you were making mistakes and have time to make adjustments.
+
+**Link(s) to work**:
+1. [Weather-Caster API](https://github.com/torianne02/weather-cast-api)
+2. [Weather-Caster Frontend](https://github.com/torianne02/weather-cast-frontend)

@@ -116,3 +116,10 @@ Today I worked on my Rails API for my final project at Flatiron. I wrote my READ
 [Weather-Caster API](https://github.com/torianne02/weather-cast-api)
 
 [Weather-Caster Frontend](https://github.com/torianne02/weather-cast-frontend)
+
+### R1D15
+I spent the day today continue work on my react project. I came across the `responders gem` which I put to use within my Rails API. After working for hours on the frontend react components, reducer, and actions, I realized something wasn't right. I discussed it with my fiance and it turns out I need to change my rails API structure. Tons of fun!
+
+[Weather-Caster API](https://github.com/torianne02/weather-cast-api)
+
+[Weather-Caster Frontend](https://github.com/torianne02/weather-cast-frontend)
