@@ -123,3 +123,35 @@ I spent the day today continue work on my react project. I came across the `resp
 [Weather-Caster API](https://github.com/torianne02/weather-cast-api)
 
 [Weather-Caster Frontend](https://github.com/torianne02/weather-cast-frontend)
+
+### R1D16
+SKIPPED
+
+### R1D17
+I attempted to fix my API issue from the day before. I ended up getting very flustered and decided to create a clean repo to try and start from scratch. I want to work through the whole process again from the start to see where I went wrong. I will then go and fix the current API.
+
+[Weather-Caster API](https://github.com/torianne02/weather-cast-api)
+
+[Weather-Caster Frontend](https://github.com/torianne02/weather-cast-frontend)
+
+[Weather-Caster Frontend 2.0](https://github.com/torianne02/weather-caster-frontend)
+
+
+### R1D18
+I spent 3 hours working on prepping for my mock technical interview tomorrow. I practiced by working through 8 problems on HackerRank.
+
+[Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string)
+
+[Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters)
+
+[Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation)
+
+[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)
+
+[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)
+
+[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)
+
+[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)
+
+[Solve Me First](Solve Me First)

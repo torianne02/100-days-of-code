@@ -155,3 +155,34 @@
 **Link(s) to work**:
 1. [Weather-Caster API](https://github.com/torianne02/weather-cast-api)
 2. [Weather-Caster Frontend](https://github.com/torianne02/weather-cast-frontend)
+
+### Day 16: January 19, 2019
+
+**Today's Progress**: Skipped.
+
+### Day 17: January 20, 2019
+
+**Today's Progress**: I worked on trying to fix the issues with my API. I discovered that even the new way I wanted to do it wasn't going to work correctly. So, I wanted to start clean and created a new repo. I plan to fix the problems in the original repo after making sense of it with a clean repo.
+
+**Thoughts**: Today was really frustrating and tears were shed. I got my hour completed and put the laptop away for the rest of the day hoping to come back with fresh eyes.
+
+**Link(s) to work**:
+1. [Weather-Caster API](https://github.com/torianne02/weather-cast-api)
+2. [Weather-Caster Frontend](https://github.com/torianne02/weather-cast-frontend)
+3. [Weather-Caster API 2.0](https://github.com/torianne02/weather-caster-api)
+
+### Day 18: January 21, 2019
+
+**Today's Progress**: I worked on Ruby interview prep problems on HackerRank. I went through 8 different problems over a span of 3 hours. 
+
+**Thoughts**: Some of the problems were simple and others required a lot of thought and logic. I decided to do my hour of code at the end of the day when my brain was a little foggy. I was having a hard time thinking things through, so hopefully tomorrow, when I practice before my mock technical interview, things go better.
+
+**Link(s) to work**:
+1. [Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string)
+2. [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters)
+3. [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation)
+4. [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)
+5. [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)
+6. [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)
+7. [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)
+8. [Solve Me First](Solve Me First)
