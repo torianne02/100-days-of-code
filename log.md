@@ -173,7 +173,7 @@
 
 ### Day 18: January 21, 2019
 
-**Today's Progress**: I worked on Ruby interview prep problems on HackerRank. I went through 8 different problems over a span of 3 hours. 
+**Today's Progress**: I worked on Ruby interview prep problems on HackerRank. I went through 8 different problems over a span of 3 hours.
 
 **Thoughts**: Some of the problems were simple and others required a lot of thought and logic. I decided to do my hour of code at the end of the day when my brain was a little foggy. I was having a hard time thinking things through, so hopefully tomorrow, when I practice before my mock technical interview, things go better.
 
@@ -186,3 +186,15 @@
 6. [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)
 7. [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)
 8. [Solve Me First](Solve Me First)
+
+### Day 19: January 22, 2019
+
+**Today's Progress**: I got a lot accomplished today. I continued work on my Rails API, spent an hour working on Ruby kata's to prep for my mock technical interview, and I had my technical interview.
+
+**Thoughts**: I think that I made positive progress in regards to my API. I am finding a lot of articles in regards to how I should build my database tables. I have a much more positive mindset in regards to my project compared to the last 3 days. My interview went well. The interviewer let me know that he thought I did a great job, but I'm still waiting on my official feedback so I can build my skills and fix the mistakes for my first real interview!
+
+**Link(s) to work**:
+1. [Weather-Caster Frontend 2.0](https://github.com/torianne02/weather-caster-frontend)
+2. [IQ Test](https://www.codewars.com/kata/552c028c030765286c00007d)
+3. [Simple remove duplicates](https://www.codewars.com/kata/5ba38ba180824a86850000f7)
+4. [Student's Final Grade](https://www.codewars.com/kata/5ad0d8356165e63c140014d4)

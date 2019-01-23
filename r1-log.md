@@ -155,3 +155,14 @@ I spent 3 hours working on prepping for my mock technical interview tomorrow. I 
 [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)
 
 [Solve Me First](Solve Me First)
+
+### R1D19
+Today I had my mock technical interview on Ruby. I felt I did well, just waiting on official feedback. I also worked on my rails API and did an hour and a half of interview prep questions on CodeWars. Busy and productive day.
+
+[Weather-Caster Frontend 2.0](https://github.com/torianne02/weather-caster-frontend)
+
+[IQ Test](https://www.codewars.com/kata/552c028c030765286c00007d)
+
+[Simple remove duplicates](https://www.codewars.com/kata/5ba38ba180824a86850000f7)
+
+[Student's Final Grade](https://www.codewars.com/kata/5ad0d8356165e63c140014d4)
