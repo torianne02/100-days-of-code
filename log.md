@@ -198,3 +198,12 @@
 2. [IQ Test](https://www.codewars.com/kata/552c028c030765286c00007d)
 3. [Simple remove duplicates](https://www.codewars.com/kata/5ba38ba180824a86850000f7)
 4. [Student's Final Grade](https://www.codewars.com/kata/5ad0d8356165e63c140014d4)
+
+### Day 20: January 23, 2019
+
+**Today's Progress**: Late last night I had an epiphany and thought, 'wait! I could make our wedding website and complete my project requirements!' So, today I built my rails API for this site. I have everything functioning the way an API should. I also mapped out how I want to build the frontend with React components.
+
+**Thoughts**: I am really happy with my decision to pivot my project from the weather app to this wedding app. This is something that I've wanted to build. I've thought I'd always build our wedding website and this will at the least be great practice for it. 
+
+**Link(s) to work**:
+1. [Crawford-Wedding-API](https://github.com/torianne02/crawford-wedding-api)
