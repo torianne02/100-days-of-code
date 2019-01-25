@@ -168,6 +168,11 @@ Today I had my mock technical interview on Ruby. I felt I did well, just waiting
 [Student's Final Grade](https://www.codewars.com/kata/5ad0d8356165e63c140014d4)
 
 ### R1D20
-Today I pivoted my final project yet again. I had an exciting thought last night that I'd build my wedding website! This is great because I know I am passionate about this project. It's going to drive my creativity and hopefully keep my head clear. I created my Rails API today and also mapped out my plans for my React frontend. I'm excited to work on it tomorrow! 
+Today I pivoted my final project yet again. I had an exciting thought last night that I'd build my wedding website! This is great because I know I am passionate about this project. It's going to drive my creativity and hopefully keep my head clear. I created my Rails API today and also mapped out my plans for my React frontend. I'm excited to work on it tomorrow!
 
 [Crawford-Wedding-API](https://github.com/torianne02/crawford-wedding-api)
+
+### R1D21
+I created my frontend for the wedding website. I created the repo and added the necessary packages. I also got my feedback for my mock interview and I am very pleased!! 
+
+[Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
