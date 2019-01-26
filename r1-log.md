@@ -181,3 +181,14 @@ I created my frontend for the wedding website. I created the repo and added the 
 I worked on creating containers and components for the guest and rsvp aspect of my React frontend. I created the most basic templates for each container and component. I also use reactstrap to create my RSVP form.
 
 [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
+
+### R1D23
+Today I spent my hour brushing up on my algorithm skills for both, Ruby and Javascript. I worked on 4 Kata's on Codewars.
+
+[Filter out the geese](https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7)
+
+[If you can't sleep, just count sheep!](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077)
+
+[Is the date today](https://www.codewars.com/kata/563c13853b07a8f17c000022)
+
+[Do you speak "English"?](https://www.codewars.com/kata/58dbdccee5ee8fa2f9000058)

@@ -227,7 +227,19 @@
 
 **Today's Progress**: I created the guest list container, guest and guests components, as well as the rsvp form. I used reactstrap to create my form. I also removed the basic react templating and logos from the project. My containers and components have the most basic logic in them currently.
 
-**Thoughts**: I am feeling good about today. I am happy with my decision to not make the containers and components too complex from the start, as I didn't want to get myself confused. I'm going to take this step by step slowly to make sure I am truly understanding what I am coding. 
+**Thoughts**: I am feeling good about today. I am happy with my decision to not make the containers and components too complex from the start, as I didn't want to get myself confused. I'm going to take this step by step slowly to make sure I am truly understanding what I am coding.
 
 **Link(s) to work**:
 1. [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
+
+### Day 23: January 26, 2019
+
+**Today's Progress**: Today I spent my hour brushing up on my algorithm skills for both, Ruby and Javascript. I worked on 4 Kata's on Codewars.
+
+**Thoughts**: I felt fuzzy today and had a difficult time working on simple algorithms. It was a little frustrating, but considering how I felt, I'm happy with the outcome.
+
+**Link(s) to work**:
+1. [Filter out the geese](https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7)
+2. [If you can't sleep, just count sheep!](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077)
+3. [Is the date today](https://www.codewars.com/kata/563c13853b07a8f17c000022)
+4. [Do you speak "English"?](https://www.codewars.com/kata/58dbdccee5ee8fa2f9000058)
