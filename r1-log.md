@@ -173,6 +173,11 @@ Today I pivoted my final project yet again. I had an exciting thought last night
 [Crawford-Wedding-API](https://github.com/torianne02/crawford-wedding-api)
 
 ### R1D21
-I created my frontend for the wedding website. I created the repo and added the necessary packages. I also got my feedback for my mock interview and I am very pleased!! 
+I created my frontend for the wedding website. I created the repo and added the necessary packages. I also got my feedback for my mock interview and I am very pleased!!
+
+[Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
+
+### R1D22
+I worked on creating containers and components for the guest and rsvp aspect of my React frontend. I created the most basic templates for each container and component. I also use reactstrap to create my RSVP form.
 
 [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)

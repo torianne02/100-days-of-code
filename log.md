@@ -222,3 +222,12 @@
 
 **Link(s) to work**:
 1. [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
+
+### Day 22: January 25, 2019
+
+**Today's Progress**: I created the guest list container, guest and guests components, as well as the rsvp form. I used reactstrap to create my form. I also removed the basic react templating and logos from the project. My containers and components have the most basic logic in them currently.
+
+**Thoughts**: I am feeling good about today. I am happy with my decision to not make the containers and components too complex from the start, as I didn't want to get myself confused. I'm going to take this step by step slowly to make sure I am truly understanding what I am coding. 
+
+**Link(s) to work**:
+1. [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
