@@ -192,3 +192,16 @@ Today I spent my hour brushing up on my algorithm skills for both, Ruby and Java
 [Is the date today](https://www.codewars.com/kata/563c13853b07a8f17c000022)
 
 [Do you speak "English"?](https://www.codewars.com/kata/58dbdccee5ee8fa2f9000058)
+
+### R1D24
+I decided to spend my free time away from my projects and working on algorithms after having a hard time with them yesterday. Luckily, I felt much better today and worked on a few of the problems that I immediately brushed off yesterday as 'too hard.' I feel accomplished and pleased with my progress. 
+
+[Shortest Word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)
+
+[Form The Largest](https://www.codewars.com/kata/5a4ea304b3bfa89a9900008e)
+
+[Closest elevator](https://www.codewars.com/kata/5c374b346a5d0f77af500a5a)
+
+[Will there be enough space?](https://www.codewars.com/kata/5875b200d520904a04000003)
+
+[Return the day](https://www.codewars.com/kata/59dd3ccdded72fc78b000b25)
