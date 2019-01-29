@@ -208,12 +208,6 @@
 **Link(s) to work**:
 1. [Crawford-Wedding-API](https://github.com/torianne02/crawford-wedding-api)
 
-**Link(s) to work**:
-1. [Weather-Caster Frontend 2.0](https://github.com/torianne02/weather-caster-frontend)
-2. [IQ Test](https://www.codewars.com/kata/552c028c030765286c00007d)
-3. [Simple remove duplicates](https://www.codewars.com/kata/5ba38ba180824a86850000f7)
-4. [Student's Final Grade](https://www.codewars.com/kata/5ad0d8356165e63c140014d4)
-
 ### Day 21: January 24, 2019
 
 **Today's Progress**: Today I created my React frontend for my wedding website. I created the repo and added the necessary packages.
@@ -271,7 +265,7 @@
 
 **Today's Progress**: I spent the morning in a study group focused on component lifecycles. The lead went through some great techniques to test the code and get an idea of when certain aspects of the component are firing/being called. So, I've spent the rest of my morning working on testing my components in the project to make sure I'm getting what I want, when I should be getting it.
 
-**Thoughts**: I feel more confident in my understanding of components. I am having a hard time putting down the computer to eat lunch at the moment because I feel like I'm on a roll! 
+**Thoughts**: I feel more confident in my understanding of components. I am having a hard time putting down the computer to eat lunch at the moment because I feel like I'm on a roll!
 
 **Link(s) to work**:
 1. [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
