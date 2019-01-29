@@ -194,7 +194,7 @@ Today I spent my hour brushing up on my algorithm skills for both, Ruby and Java
 [Do you speak "English"?](https://www.codewars.com/kata/58dbdccee5ee8fa2f9000058)
 
 ### R1D24
-I decided to spend my free time away from my projects and working on algorithms after having a hard time with them yesterday. Luckily, I felt much better today and worked on a few of the problems that I immediately brushed off yesterday as 'too hard.' I feel accomplished and pleased with my progress. 
+I decided to spend my free time away from my projects and working on algorithms after having a hard time with them yesterday. Luckily, I felt much better today and worked on a few of the problems that I immediately brushed off yesterday as 'too hard.' I feel accomplished and pleased with my progress.
 
 [Shortest Word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)
 
@@ -205,3 +205,15 @@ I decided to spend my free time away from my projects and working on algorithms 
 [Will there be enough space?](https://www.codewars.com/kata/5875b200d520904a04000003)
 
 [Return the day](https://www.codewars.com/kata/59dd3ccdded72fc78b000b25)
+
+### R1D25
+I spent the day reading up on `redux-thunk` so that I can incorporate it in my project. I also decided to make a change in my Rails API. I removed the ActiveRecord association between guests and rsvps. I removed guests and added the name and email attribute to rsvps, this way I won't have a nested attributes relationship.
+
+[Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
+
+[Crawford-Wedding-API](https://github.com/torianne02/crawford-wedding-api)
+
+### R1D26
+I worked on testing within my code with `console.log()` to get a full understanding of when each aspect is called within a component/container. I was in a study group first thing in the morning that discussed components and their lifecycle. It was very beneficial for me due to the point I am at in my project!!  
+
+[Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)

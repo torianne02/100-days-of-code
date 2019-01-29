@@ -256,3 +256,22 @@
 3. [Closest elevator](https://www.codewars.com/kata/5c374b346a5d0f77af500a5a)
 4. [Will there be enough space?](https://www.codewars.com/kata/5875b200d520904a04000003)
 5. [Return the day](https://www.codewars.com/kata/59dd3ccdded72fc78b000b25)
+
+### Day 25: January 28, 2019
+
+**Today's Progress**: I spent a decent amount of time reading up on redux-thunk and how I can incorporate it in my project. I also made changes to my rails API. I removed the ActiveRecord association between guests and rsvps, as well as removing guests altogether and placing the name and email attribute into rsvps.
+
+**Thoughts**: I am feeling happy with my decision to remove the ActiveRecord association so that I do not need to deal with the messiness of a nested attribute form in React. I will eventually spend the time to learn how to do this in another project outside of bootcamp.
+
+**Link(s) to work**:
+1. [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
+2. [Crawford-Wedding-API](https://github.com/torianne02/crawford-wedding-api)
+
+### Day 26: January 29, 2019
+
+**Today's Progress**: I spent the morning in a study group focused on component lifecycles. The lead went through some great techniques to test the code and get an idea of when certain aspects of the component are firing/being called. So, I've spent the rest of my morning working on testing my components in the project to make sure I'm getting what I want, when I should be getting it.
+
+**Thoughts**: I feel more confident in my understanding of components. I am having a hard time putting down the computer to eat lunch at the moment because I feel like I'm on a roll! 
+
+**Link(s) to work**:
+1. [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
