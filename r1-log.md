@@ -109,7 +109,6 @@ Today I had the second half of my assessment for Javascript. The second half is 
 
 [Weather-Cast API](https://github.com/torianne02/weather-cast-api)
 
-
 ### R1D14
 Today I worked on my Rails API for my final project at Flatiron. I wrote my README. I worked on the forecast_controller.rb as well as creating the forecast model and routes. I also discovered, studied, and implemented `responders gem`. I began working on the React frontend of my project as well.
 
@@ -135,7 +134,6 @@ I attempted to fix my API issue from the day before. I ended up getting very flu
 [Weather-Caster Frontend](https://github.com/torianne02/weather-cast-frontend)
 
 [Weather-Caster Frontend 2.0](https://github.com/torianne02/weather-caster-frontend)
-
 
 ### R1D18
 I spent 3 hours working on prepping for my mock technical interview tomorrow. I practiced by working through 8 problems on HackerRank.
