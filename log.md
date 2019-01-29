@@ -11,7 +11,6 @@
 2. [Total amount of points](https://www.codewars.com/kata/5bb904724c47249b10000131)
 3. [Sum of two lowest positive integers](https://www.codewars.com/kata/558fc85d8fd1938afb000014)
 
-
 ### Day 2: January 5, 2019
 
 **Today's Progress**: I completed 6 Kata's on Codewars, in Javascript and Ruby.
@@ -25,7 +24,6 @@
 4. [Capitalization and Mutability](https://www.codewars.com/kata/595970246c9b8fa0a8000086)
 5. [Are You Playing Banjo?](https://www.codewars.com/kata/are-you-playing-banjo)
 
-
 ### Day 3: January 6, 2019
 
 **Today's Progress**: My fiance, a data engineer, did a quick SQL refresher with me. We then spent the next hour and a half working on SQL problems on codewars and W3Schools. We also completed a SQL quiz on W3Schools, as well as a JS one.
@@ -38,7 +36,6 @@
 3. [Best-Selling Books(SQL for Beginners #5)](https://www.codewars.com/kata/591127cbe8b9fb05bd00004b)
 4. [SQL Basics: Simple JOIN with COUNT](https://www.codewars.com/kata/580918e24a85b05ad000010c)
 5. [Adults only(SQL for Beginners #1)](https://www.codewars.com/kata/590a95eede09f87472000213)
-
 
 ### Day 4: January 7, 2019
 
