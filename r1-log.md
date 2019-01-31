@@ -215,3 +215,10 @@ I spent the day reading up on `redux-thunk` so that I can incorporate it in my p
 I worked on testing within my code with `console.log()` to get a full understanding of when each aspect is called within a component/container. I was in a study group first thing in the morning that discussed components and their lifecycle. It was very beneficial for me due to the point I am at in my project!!  
 
 [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
+
+### R1D27
+I accomplished a lot today in regards to the background code that doesn't appear on the actual web page. I also designed my RSVP form using `reactstrap` and `bootstrap`. I am able to submit the form using a fetch request but I am still getting a `500 server error` after the instance of the ruby class in created and saved. Hopefully with a pair of fresh eyes tomorrow, I will be able to successfully debug this issue and get more stateless components completed.  
+
+[Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
+
+[Crawford-Wedding-API](https://github.com/torianne02/crawford-wedding-api)

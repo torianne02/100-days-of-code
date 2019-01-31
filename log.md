@@ -266,3 +266,13 @@
 
 **Link(s) to work**:
 1. [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
+
+### Day 27: January 30, 2019
+
+**Today's Progress**: Today I spent the entire day working on my wedding website project. I got the RSVP form structured properly using `reactstrap` and `bootstrap` packages. I also had to tweak a few things within the API, mostly routes and `rack-cors` gem info, in order to get the form to submit. I have it submitting and creating new instances of the ruby class, but is still sending back an error to the front end. I spent about an hour or so trying to debug this. No answer yet.
+
+**Thoughts**: I felt like I did SO MUCH today, but in regards to the appearance of the web-app, it looks no different, except the form. I feel as if I've gotten a lot of the logic completed but I'm not rendering it to the page via HTML yet. Hopefully I'll make more progress in regards to this tomorrow. Also, hopefully I figure out this error that I'm getting quickly tomorrow with a fresh pair of eyes. 
+
+**Link(s) to work**:
+1. [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
+2. [Crawford-Wedding-API](https://github.com/torianne02/crawford-wedding-api)
