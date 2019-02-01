@@ -271,7 +271,17 @@
 
 **Today's Progress**: Today I spent the entire day working on my wedding website project. I got the RSVP form structured properly using `reactstrap` and `bootstrap` packages. I also had to tweak a few things within the API, mostly routes and `rack-cors` gem info, in order to get the form to submit. I have it submitting and creating new instances of the ruby class, but is still sending back an error to the front end. I spent about an hour or so trying to debug this. No answer yet.
 
-**Thoughts**: I felt like I did SO MUCH today, but in regards to the appearance of the web-app, it looks no different, except the form. I feel as if I've gotten a lot of the logic completed but I'm not rendering it to the page via HTML yet. Hopefully I'll make more progress in regards to this tomorrow. Also, hopefully I figure out this error that I'm getting quickly tomorrow with a fresh pair of eyes. 
+**Thoughts**: I felt like I did SO MUCH today, but in regards to the appearance of the web-app, it looks no different, except the form. I feel as if I've gotten a lot of the logic completed but I'm not rendering it to the page via HTML yet. Hopefully I'll make more progress in regards to this tomorrow. Also, hopefully I figure out this error that I'm getting quickly tomorrow with a fresh pair of eyes.
+
+**Link(s) to work**:
+1. [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
+2. [Crawford-Wedding-API](https://github.com/torianne02/crawford-wedding-api)
+
+### Day 28: January 31, 2019
+
+**Today's Progress**: I was able to fix the submission issue for my form today by fixing some syntax errors on the frontend and using `active_model_serializers` gem in the backend. I also began testing the other fetch requests I have written that will be utilized in the action files. These will be very helpful once I get the redux store up and running.
+
+**Thoughts**: I feel really happy that I was able to fix the issue on my own. Of course it just conveniently clicked for me after posting on slack asking for help! HA. Now that I have my form working properly, I am going to concentrate on getting the redux store up and running properly.
 
 **Link(s) to work**:
 1. [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
