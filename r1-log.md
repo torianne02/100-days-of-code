@@ -224,8 +224,24 @@ I accomplished a lot today in regards to the background code that doesn't appear
 [Crawford-Wedding-API](https://github.com/torianne02/crawford-wedding-api)
 
 ### R1D28
-Today I was able to fix the problem I was having with my form submission yesterday. After a lot of tweaking and asking for help via slack, I realized that the the parameters weren't being sent to the API properly. 2 of the attributes weren't being included in the params and it kept causing the form to fail. Luckily enough, it was just a few minor syntax adjustments and the addition of a serializer that needed to take place! Now I have a form that submits to the API and send back the information to the frontend. I am now concentrating on getting the redux store up and running properly. 
+Today I was able to fix the problem I was having with my form submission yesterday. After a lot of tweaking and asking for help via slack, I realized that the the parameters weren't being sent to the API properly. 2 of the attributes weren't being included in the params and it kept causing the form to fail. Luckily enough, it was just a few minor syntax adjustments and the addition of a serializer that needed to take place! Now I have a form that submits to the API and send back the information to the frontend. I am now concentrating on getting the redux store up and running properly.
 
 [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
 
 [Crawford-Wedding-API](https://github.com/torianne02/crawford-wedding-api)
+
+### R1D29
+I spent the morning attempting to understand where I was going wrong in regards to my Redux store, but nothing was clicking for me. I decided to put that down and work on more stateless components for the website, since those were easy enough. I also used more `reactstrap` and CSS to add more styling to my web page.
+
+[Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
+
+### R1D30
+I spent my hour working through Javascript ES6 lessons on freeCodeCamp. I have learned little things, such as destructuring assignments, that I didn't even know ES6 brought to the table. It has been really beneficial in deepening my knowledge of JS.
+
+[freeCodeCamp](https://learn.freecodecamp.org/)
+
+### R1D31
+Today I spent the day refactoring some of my fiance's old code from when he first started coding. It was fun seeing the silly little mistakes he made like using Arrays instead of dictionaries/objects. He codes in Python, so it isn't what I know specifically, but it was great getting exposure to the fact that Ruby and Python are fundamentally similar. I also continued working through freeCodeCamp's JS ES6 lessons.
+
+[freeCodeCamp](https://learn.freecodecamp.org/)
+[SBRscraper](https://github.com/SharpChiCity/SBRscraper/tree/refactor_closing)

@@ -286,3 +286,31 @@
 **Link(s) to work**:
 1. [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
 2. [Crawford-Wedding-API](https://github.com/torianne02/crawford-wedding-api)
+
+### Day 29: February 1, 2019
+
+**Today's Progress**: I spent the day continuing work on my wedding application. I spent about an hour and a half trying to find resources to figure out how to implement a Redux store in my project, but was still incredibly confused. I decided to focus on working on some styling as well as other simple stateless components.
+
+**Thoughts**: I was really bothered by the fact that the Redux store information wasn't clicking for me. I had to sit it aside and decided to come back to it on Monday or over the weekend. I also had a random error occur with my form that wasn't occurring before. I hadn't changed any code in regards to my form or the RSVP controller so I have no idea why it is throwing this error. I am currently trying to clear my cache and see if that may have anything to do with it.
+
+**Link(s) to work**:
+1. [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
+
+### Day 30: February 2, 2019
+
+**Today's Progress**: I spent an hour in the morning working on freeCodeCamp's Javascript ES6 lessons.
+
+**Thoughts**: I wish I would have found these lessons before my JS assessment, although I still did great. It's just the way that the information is laid out in the lessons. It's great!
+
+**Link(s) to work**:
+1. [freeCodeCamp](https://learn.freecodecamp.org/)
+
+### Day 31: February 3, 2019
+
+**Today's Progress**: Today I spent my hour of live coding refactoring an old project of my fiance's. He knows and codes in Python, which I do not know. I also worked on more Javascript ES6 lessons on freeCodeCamp.
+
+**Thoughts**: It was really awesome having him let me try to interpret his code and then tell him what he could to make it cleaner. It's nice to be at the point, when it comes to software development, that I at points know better practices than him. It's also fun to see his code from when he first started coding. I realized that we all start somewhere, and it only goes up from there. I also like that Python is so very similar to Ruby, outside of being very different syntax-wise.
+
+**Link(s) to work**:
+1. [SBRscraper](https://github.com/SharpChiCity/SBRscraper/tree/refactor_closing)
+2. [freeCodeCamp](https://learn.freecodecamp.org/)
