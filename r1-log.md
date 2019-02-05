@@ -245,3 +245,8 @@ Today I spent the day refactoring some of my fiance's old code from when he firs
 
 [freeCodeCamp](https://learn.freecodecamp.org/)
 [SBRscraper](https://github.com/SharpChiCity/SBRscraper/tree/refactor_closing)
+
+### R1D32
+I dove deep into figuring out the Redux store in my wedding website project. I realized that I had built my store correctly the whole time, but I was using `mapStateToProps` and `mapDispatchToProps` incorrectly. Once I started to write them correctly, I realized the `componentDidMount` functions were throwing errors. Lots of research has occurred with no answers thus far. 
+
+[Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)

@@ -314,3 +314,12 @@
 **Link(s) to work**:
 1. [SBRscraper](https://github.com/SharpChiCity/SBRscraper/tree/refactor_closing)
 2. [freeCodeCamp](https://learn.freecodecamp.org/)
+
+### Day 32: February 4, 2019
+
+**Today's Progress**: I dove deep into Redux `store` articles today and realized that I had built my `store` correctly. I learned that I was actually misusing `mapStateToProps` and `mapDispatchToProps`. Once I got those coded differently, I started having an error in regards to my `componentDidMount` methods.
+
+**Thoughts**: I was extremely happy to find out that I had built my `store` correctly. After reading and watching tutorials, forums, etc. I haven't figured out how to fix this error yet. Luckily, tomorrow is a new day!
+
+**Link(s) to work**:
+1. [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
