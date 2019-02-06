@@ -328,7 +328,16 @@
 
 **Today's Progress**: I spent the day trying to figure out why my `mapStateToProps` wasn't working properly. I watched multiple tutorials and read many articles attempting to find out what I've done wrong.
 
-**Thoughts**: I learned that I am doing a lot of things right, but still haven't figured out what's causing certain pages to break. I come across people with the same errors but their fixes I already have completed correctly. It's been a rough day. 
+**Thoughts**: I learned that I am doing a lot of things right, but still haven't figured out what's causing certain pages to break. I come across people with the same errors but their fixes I already have completed correctly. It's been a rough day.
 
 **Link(s) to work**:
 1. [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
+
+### Day 34: February 6, 2019
+
+**Today's Progress**: I reached out to my technical lead to try and schedule a project support meeting. I attempted to watch more tutorials, but couldn't figure anything out. I decided to set my project aside for the day and jump back in to the JS curriculum of freeCodeCamp. I got through the first 16 lessons of the regex section.
+
+**Thoughts**: I am a little flustered at the untimely responses from Flatiron employees who have been in charge of the last 2 sections. I just want help and always feel like I have to badger people multiple times a day on every platform to get them to finally reply. Luckily, I decided to spend the day being positive and trying to learn something I am not great at using, regex. 
+
+**Link(s) to work**:
+1. [freeCodeCamp](https://learn.freecodecamp.org/)

@@ -252,6 +252,11 @@ I dove deep into figuring out the Redux store in my wedding website project. I r
 [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
 
 ### R1D33
-I still couldn't figure out why the `mapStateToProps` isn't working. I spent the whole day going through trial and error while watching so many tutorials and got nowhere. I know I am doing things right, but I don't know what I'm doing wrong yet. Tomorrow is a new day. 
+I still couldn't figure out why the `mapStateToProps` isn't working. I spent the whole day going through trial and error while watching so many tutorials and got nowhere. I know I am doing things right, but I don't know what I'm doing wrong yet. Tomorrow is a new day.
 
 [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
+
+### R1D34
+I reached out for help with my project today, but I haven't heard back. So, I decided to spend my hour of code working on freeCodeCamp's Javascript curriculum some more. I made it through the first 16 lessons of regex, which I've always been awful with. It's definitely beneficial. 
+
+[freeCodeCamp](https://learn.freecodecamp.org/)
