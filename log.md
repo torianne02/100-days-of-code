@@ -323,3 +323,12 @@
 
 **Link(s) to work**:
 1. [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
+
+### Day 33: February 5, 2019
+
+**Today's Progress**: I spent the day trying to figure out why my `mapStateToProps` wasn't working properly. I watched multiple tutorials and read many articles attempting to find out what I've done wrong.
+
+**Thoughts**: I learned that I am doing a lot of things right, but still haven't figured out what's causing certain pages to break. I come across people with the same errors but their fixes I already have completed correctly. It's been a rough day. 
+
+**Link(s) to work**:
+1. [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)

@@ -247,6 +247,11 @@ Today I spent the day refactoring some of my fiance's old code from when he firs
 [SBRscraper](https://github.com/SharpChiCity/SBRscraper/tree/refactor_closing)
 
 ### R1D32
-I dove deep into figuring out the Redux store in my wedding website project. I realized that I had built my store correctly the whole time, but I was using `mapStateToProps` and `mapDispatchToProps` incorrectly. Once I started to write them correctly, I realized the `componentDidMount` functions were throwing errors. Lots of research has occurred with no answers thus far. 
+I dove deep into figuring out the Redux store in my wedding website project. I realized that I had built my store correctly the whole time, but I was using `mapStateToProps` and `mapDispatchToProps` incorrectly. Once I started to write them correctly, I realized the `componentDidMount` functions were throwing errors. Lots of research has occurred with no answers thus far.
+
+[Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
+
+### R1D33
+I still couldn't figure out why the `mapStateToProps` isn't working. I spent the whole day going through trial and error while watching so many tutorials and got nowhere. I know I am doing things right, but I don't know what I'm doing wrong yet. Tomorrow is a new day. 
 
 [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
