@@ -337,7 +337,16 @@
 
 **Today's Progress**: I reached out to my technical lead to try and schedule a project support meeting. I attempted to watch more tutorials, but couldn't figure anything out. I decided to set my project aside for the day and jump back in to the JS curriculum of freeCodeCamp. I got through the first 16 lessons of the regex section.
 
-**Thoughts**: I am a little flustered at the untimely responses from Flatiron employees who have been in charge of the last 2 sections. I just want help and always feel like I have to badger people multiple times a day on every platform to get them to finally reply. Luckily, I decided to spend the day being positive and trying to learn something I am not great at using, regex. 
+**Thoughts**: I am a little flustered at the untimely responses from Flatiron employees who have been in charge of the last 2 sections. I just want help and always feel like I have to badger people multiple times a day on every platform to get them to finally reply. Luckily, I decided to spend the day being positive and trying to learn something I am not great at using, regex.
 
 **Link(s) to work**:
 1. [freeCodeCamp](https://learn.freecodecamp.org/)
+
+### Day 35: February 7, 2019
+
+**Today's Progress**: I spent the day trying to debug my project, AGAIN, for the same `store`/`mapStateToProps` issue that I was having previously. I read a few more documents on debugging and common mistakes made.
+
+**Thoughts**: I definitely keep gaining a deeper and deeper understanding of `react-redux` throughout this process, that's for sure. It slightly bothers me that I can't figure out the exact issue, but I know I am gaining valuable knowledge while trying to figure it out, so that makes it all okay! I finally have a project support meeting set up for tomorrow morning, so hopefully I am able to get this all squared away afterwards.
+
+**Link(s) to work**:
+1. [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)

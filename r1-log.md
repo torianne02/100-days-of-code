@@ -257,6 +257,11 @@ I still couldn't figure out why the `mapStateToProps` isn't working. I spent the
 [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
 
 ### R1D34
-I reached out for help with my project today, but I haven't heard back. So, I decided to spend my hour of code working on freeCodeCamp's Javascript curriculum some more. I made it through the first 16 lessons of regex, which I've always been awful with. It's definitely beneficial. 
+I reached out for help with my project today, but I haven't heard back. So, I decided to spend my hour of code working on freeCodeCamp's Javascript curriculum some more. I made it through the first 16 lessons of regex, which I've always been awful with. It's definitely beneficial.
 
 [freeCodeCamp](https://learn.freecodecamp.org/)
+
+### R1D35
+I spent yet another day trying to debug my issue with `store` and `mapStateToProps`. I read a few more articles on common mistakes made and debugging. I definitely have a deeper understanding of `react-redux` but, unfortunately, haven't come up with a solution for my code yet. 
+
+[Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
