@@ -262,6 +262,13 @@ I reached out for help with my project today, but I haven't heard back. So, I de
 [freeCodeCamp](https://learn.freecodecamp.org/)
 
 ### R1D35
-I spent yet another day trying to debug my issue with `store` and `mapStateToProps`. I read a few more articles on common mistakes made and debugging. I definitely have a deeper understanding of `react-redux` but, unfortunately, haven't come up with a solution for my code yet. 
+I spent yet another day trying to debug my issue with `store` and `mapStateToProps`. I read a few more articles on common mistakes made and debugging. I definitely have a deeper understanding of `react-redux` but, unfortunately, haven't come up with a solution for my code yet.
 
 [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
+
+### R1D36
+I COMPLETED ALL MY PROJECT REQUIREMENTS! WOOHOO! Alright, now that the celebration is out there, let's get serious. I had a project support meeting this morning and it took all of 5 minutes to fix my code. All I had wrong was a small syntax problem. I was passing a prop variable to a child component without `{}` and that's why things weren't rendering properly from the children components. So, after that I made all the final adjustments to my project, like cleaning up the code, refactoring, and adding a thank you alert after someone RSVP's!
+
+[Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
+
+[Crawford-Wedding-API](https://github.com/torianne02/crawford-wedding-api)

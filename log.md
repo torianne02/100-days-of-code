@@ -350,3 +350,13 @@
 
 **Link(s) to work**:
 1. [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
+
+### Day 36: February 8, 2019
+
+**Today's Progress**: I had a project support meeting this morning and it took all of 5 minutes to fix my code. All I had wrong was a small syntax problem. I was passing a prop variable to a child component without `{}` and that's why things weren't rendering properly from the children components. I spent the rest of my day refactoring and cleaning up my code. I also added a personalized thank you alert after someone rsvp's. With that said, I FINISHED MY PROJECT. All that is left is recording my walkthrough.
+
+**Thoughts**: I am so happy. I felt so much relief and happiness when I learned that I didn't have to go through and fix a thousand different things to get my code to work properly. I felt so much relief when the tech lead told me that we laughed. Once I was off Zoom and told my fiance, I laughed so hard that I started crying. Such an amazing feeling to have the stress of this final project lifted off my shoulders. Now on to studying for the final assessment.
+
+**Link(s) to work**:
+1. [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
+2. [Crawford-Wedding-API](https://github.com/torianne02/crawford-wedding-api)
