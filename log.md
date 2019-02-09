@@ -360,3 +360,12 @@
 **Link(s) to work**:
 1. [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
 2. [Crawford-Wedding-API](https://github.com/torianne02/crawford-wedding-api)
+
+### Day 37: February 9, 2019
+
+**Today's Progress**: Today, I spent the day continuing my way through freeCodeCamp's Javascript curriculum. I completed the entirety of the 'Debugging' section and began working in the Algorithm section.
+
+**Thoughts**: I was happy to concentrate on some basic Javascript skills. I learned about `console.clear()` for the first time today, which was a neat new thing I wasn't expecting to learn today!! 
+
+**Link(s) to work**:
+1. [freeCodeCamp](https://learn.freecodecamp.org/)

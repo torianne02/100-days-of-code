@@ -272,3 +272,8 @@ I COMPLETED ALL MY PROJECT REQUIREMENTS! WOOHOO! Alright, now that the celebrati
 [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
 
 [Crawford-Wedding-API](https://github.com/torianne02/crawford-wedding-api)
+
+### R1D37
+Today I worked through more of freeCodeCamp's Javascript curriculum. I completed the entire debugging section and began working within the intermediate algorithm section. I learned about `console.clear()` for the first time today. 
+
+[freeCodeCamp](https://learn.freecodecamp.org/)
