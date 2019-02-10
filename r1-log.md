@@ -274,6 +274,11 @@ I COMPLETED ALL MY PROJECT REQUIREMENTS! WOOHOO! Alright, now that the celebrati
 [Crawford-Wedding-API](https://github.com/torianne02/crawford-wedding-api)
 
 ### R1D37
-Today I worked through more of freeCodeCamp's Javascript curriculum. I completed the entire debugging section and began working within the intermediate algorithm section. I learned about `console.clear()` for the first time today. 
+Today I worked through more of freeCodeCamp's Javascript curriculum. I completed the entire debugging section and began working within the intermediate algorithm section. I learned about `console.clear()` for the first time today.
 
 [freeCodeCamp](https://learn.freecodecamp.org/)
+
+### R1D38
+Today, I added an image of my fiance and I to the home page of our wedding website. I included some CSS styling for the image. I also worked with a remote branch and then completed a pull request. I haven't done this often, so it was great practice.
+
+[Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)

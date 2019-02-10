@@ -365,7 +365,16 @@
 
 **Today's Progress**: Today, I spent the day continuing my way through freeCodeCamp's Javascript curriculum. I completed the entirety of the 'Debugging' section and began working in the Algorithm section.
 
-**Thoughts**: I was happy to concentrate on some basic Javascript skills. I learned about `console.clear()` for the first time today, which was a neat new thing I wasn't expecting to learn today!! 
+**Thoughts**: I was happy to concentrate on some basic Javascript skills. I learned about `console.clear()` for the first time today, which was a neat new thing I wasn't expecting to learn today!!
 
 **Link(s) to work**:
 1. [freeCodeCamp](https://learn.freecodecamp.org/)
+
+### Day 38: February 10, 2019
+
+**Today's Progress**: I added an image of my fiance and I to the home/root page of our website. I added some CSS styling to the page. I created this all within a remote branch and did a pull request to combine it with the master branch.
+
+**Thoughts**: This was something I wanted to do with the project, but it wasn't a requirement/top priority. I'm glad I now have the time to make these little changes. I'm excited to challenge myself in the future with aspects that I wasn't fully comfortable working on at first. 
+
+**Link(s) to work**:
+1. [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
