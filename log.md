@@ -374,7 +374,16 @@
 
 **Today's Progress**: I added an image of my fiance and I to the home/root page of our website. I added some CSS styling to the page. I created this all within a remote branch and did a pull request to combine it with the master branch.
 
-**Thoughts**: This was something I wanted to do with the project, but it wasn't a requirement/top priority. I'm glad I now have the time to make these little changes. I'm excited to challenge myself in the future with aspects that I wasn't fully comfortable working on at first. 
+**Thoughts**: This was something I wanted to do with the project, but it wasn't a requirement/top priority. I'm glad I now have the time to make these little changes. I'm excited to challenge myself in the future with aspects that I wasn't fully comfortable working on at first.
 
 **Link(s) to work**:
 1. [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
+
+### Day 39: February 11, 2019
+
+**Today's Progress**: I spent the day continuing my way through freeCodeCamp's Javascript curriculum. I worked within the 'Basic Data Structures' section as well as completed a few of the intermediate algorithm problems.  
+
+**Thoughts**: Going through the basics of data structures again is really refreshing. There are tiny aspects of things that have slipped my mind, so it's nice to review! 
+
+**Link(s) to work**:
+1. [freeCodeCamp](https://learn.freecodecamp.org/)

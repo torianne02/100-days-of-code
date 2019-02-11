@@ -282,3 +282,8 @@ Today I worked through more of freeCodeCamp's Javascript curriculum. I completed
 Today, I added an image of my fiance and I to the home page of our wedding website. I included some CSS styling for the image. I also worked with a remote branch and then completed a pull request. I haven't done this often, so it was great practice.
 
 [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
+
+### R1D39
+I spent my hour of code continuing work within freeCodeCamp's Javascript curriculum. I worked within the 'Basic Data Structures' section as well as a few problems within the intermediate algorithm section.
+
+[freeCodeCamp](https://learn.freecodecamp.org/)
