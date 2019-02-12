@@ -287,3 +287,8 @@ Today, I added an image of my fiance and I to the home page of our wedding websi
 I spent my hour of code continuing work within freeCodeCamp's Javascript curriculum. I worked within the 'Basic Data Structures' section as well as a few problems within the intermediate algorithm section.
 
 [freeCodeCamp](https://learn.freecodecamp.org/)
+
+### R1D40
+After attending two study groups on Learn.co as well as reading a bunch of articles on React, I discovered a few issues within my wedding website project. I had to go through and refactor some code, which was incredibly beneficial to my understanding of the topics. More details on my exact mistakes can be found in the `log.md` file.
+
+[Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)

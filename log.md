@@ -383,7 +383,16 @@
 
 **Today's Progress**: I spent the day continuing my way through freeCodeCamp's Javascript curriculum. I worked within the 'Basic Data Structures' section as well as completed a few of the intermediate algorithm problems.  
 
-**Thoughts**: Going through the basics of data structures again is really refreshing. There are tiny aspects of things that have slipped my mind, so it's nice to review! 
+**Thoughts**: Going through the basics of data structures again is really refreshing. There are tiny aspects of things that have slipped my mind, so it's nice to review!
 
 **Link(s) to work**:
 1. [freeCodeCamp](https://learn.freecodecamp.org/)
+
+### Day 40: February 12, 2019
+
+**Today's Progress**: While studying for my React assessment and attending two different study groups on Learn.co, I noticed a few mistakes that I had made in regards to my wedding website. I accidentally removed a reducer action case a few days ago that I didn't realize was still being called within my rsvpActions file. So, I added that switch case back into the reducer. I also realized why my image wasn't responding to my CSS styling. I wasn't utilizing JSX properly, so I fixed that and adjusted the image to my liking using CSS.
+
+**Thoughts**: I am really happy that I am taking away a lot from these studying sessions for my upcoming assessment. It truly feels like I am understanding the concepts and able to implement them properly. I am trying so hard to make sure that I give the instructor absolutely no reason to not pass me. I want to graduate and move on to my job search SO BADLY!
+
+**Link(s) to work**:
+1. [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
