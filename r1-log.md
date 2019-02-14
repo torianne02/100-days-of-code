@@ -294,6 +294,11 @@ After attending two study groups on Learn.co as well as reading a bunch of artic
 [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
 
 ### R1D41
-I spent 3 hours working on freeCodeCamp's Javascript curriculum today. I completed the 'Basic Data Structures' section and almost completed the 'Basic Algorithm Scripting' section. 3 more problems left! 
+I spent 3 hours working on freeCodeCamp's Javascript curriculum today. I completed the 'Basic Data Structures' section and almost completed the 'Basic Algorithm Scripting' section. 3 more problems left!
 
 [freeCodeCamp](https://learn.freecodecamp.org/)
+
+### R1D42
+I studied all morning for my React assessment, which included me doing so practice coding. I had my assessment and live coded with the instructor for about an hour. I PASSED!!!! I am so excited to start my job search and celebrate! Oh, and I also wrote a blog post about why we need to use `this.setState()` instead of `this.state.KEY = VALUE`. Productive day!
+
+[Why Do We Use this.setState()?](http://torrnadoscodingadventures.com/why_do_we_use_this_setstate)

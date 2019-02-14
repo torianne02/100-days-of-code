@@ -405,3 +405,12 @@
 
 **Link(s) to work**:
 1. [freeCodeCamp](https://learn.freecodecamp.org/)
+
+### Day 42: February 14, 2019
+
+**Today's Progress**: Today, I spent the day studying for my React assessment, which just so happens to be my final bootcamp assessment. I passed!!!! I live coded with the instructor for an hour as well as wrote a blog post on `this.setState()` vs `this.state.KEY = VALUE`.
+
+**Thoughts**: I am SOOOOO EXCITED. I am just waiting on my official "you've graduated" email from Flatiron. It is time to celebrate, then it's time to look for jobs!!! 
+
+**Link(s) to work**:
+1. [Why Do We Use this.setState()?](http://torrnadoscodingadventures.com/why_do_we_use_this_setstate)
