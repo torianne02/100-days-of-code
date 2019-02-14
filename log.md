@@ -396,3 +396,12 @@
 
 **Link(s) to work**:
 1. [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
+
+### Day 41: February 13, 2019
+
+**Today's Progress**: I spent 3 hours today continuing my work through freeCodeCamp's Javascript curriculum. I finished the 'Basic Data Structures' section and almost completed the 'Basic Algorithm Scripting'. Only 3 problems remain.
+
+**Thoughts**: It was a long day of studying for my assessment as well as doing household chores. It was nice getting to spend a chunk of time working on sharpening my JS skills. It's currently almost 10:00pm and I wish I could finish this current section I'm working on. I'm just too worn out. Tomorrow is a new day!
+
+**Link(s) to work**:
+1. [freeCodeCamp](https://learn.freecodecamp.org/)

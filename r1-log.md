@@ -292,3 +292,8 @@ I spent my hour of code continuing work within freeCodeCamp's Javascript curricu
 After attending two study groups on Learn.co as well as reading a bunch of articles on React, I discovered a few issues within my wedding website project. I had to go through and refactor some code, which was incredibly beneficial to my understanding of the topics. More details on my exact mistakes can be found in the `log.md` file.
 
 [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
+
+### R1D41
+I spent 3 hours working on freeCodeCamp's Javascript curriculum today. I completed the 'Basic Data Structures' section and almost completed the 'Basic Algorithm Scripting' section. 3 more problems left! 
+
+[freeCodeCamp](https://learn.freecodecamp.org/)
