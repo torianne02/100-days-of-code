@@ -307,3 +307,8 @@ I studied all morning for my React assessment, which included me doing so practi
 I spent almost a whole 2 hours working through freeCodeCamp's Javascript curriculum. I went back and completed the regex section and also finished the basic algorithm scripting section. I began working on the object oriented programming section and am really happy that I'm inching closer to finishing the curriculum.
 
 [freeCodeCamp](https://learn.freecodecamp.org/)
+
+### R1D44
+Today, I spent an hour and a half on freeCodeCamp's JS curriculum. I completed the OO programming section and started working on the functional programming section. I believe this section is going to be one of the most challenging so far for me. I'm excited to keep working through it.
+
+[freeCodeCamp](https://learn.freecodecamp.org/)

@@ -419,7 +419,16 @@
 
 **Today's Progress**: I spent 2 hours today continuing my work through freeCodeCamp's Javascript curriculum. I finished the 'Basic Algorithm Scripting' section as well as the 'Regular Expressions' section. I started working through the 'Object Oriented Programming' section.
 
-**Thoughts**: I feel as if I got a lot done in only 2 hours! I am also happy that I only have 3 more sections remaining in this curriculum. I'm finishing things left and right and it makes me so incredibly happy. 
+**Thoughts**: I feel as if I got a lot done in only 2 hours! I am also happy that I only have 3 more sections remaining in this curriculum. I'm finishing things left and right and it makes me so incredibly happy.
+
+**Link(s) to work**:
+1. [freeCodeCamp](https://learn.freecodecamp.org/)
+
+### Day 44: February 16, 2019
+
+**Today's Progress**: Today, I spent an hour and a half continuing my work through freeCodeCamp's Javascript curriculum. I finished the 'Object Oriented Programming' section, which officially means I've completed 7 of 10 sections. I also started working through the 'Functional Programming' section.
+
+**Thoughts**: I feel like I blew through the OO programming section because that is a huge aspect that Flatiron always pushed when teaching JS. It makes me feel confident in those skills. Now, with this new functional programming section, I believe it'll be a tough one for me. I completed the first 7 challenges today and some of them weren't easy for me. 
 
 **Link(s) to work**:
 1. [freeCodeCamp](https://learn.freecodecamp.org/)
