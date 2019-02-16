@@ -410,7 +410,16 @@
 
 **Today's Progress**: Today, I spent the day studying for my React assessment, which just so happens to be my final bootcamp assessment. I passed!!!! I live coded with the instructor for an hour as well as wrote a blog post on `this.setState()` vs `this.state.KEY = VALUE`.
 
-**Thoughts**: I am SOOOOO EXCITED. I am just waiting on my official "you've graduated" email from Flatiron. It is time to celebrate, then it's time to look for jobs!!! 
+**Thoughts**: I am SOOOOO EXCITED. I am just waiting on my official "you've graduated" email from Flatiron. It is time to celebrate, then it's time to look for jobs!!!
 
 **Link(s) to work**:
 1. [Why Do We Use this.setState()?](http://torrnadoscodingadventures.com/why_do_we_use_this_setstate)
+
+### Day 43: February 15, 2019
+
+**Today's Progress**: I spent 2 hours today continuing my work through freeCodeCamp's Javascript curriculum. I finished the 'Basic Algorithm Scripting' section as well as the 'Regular Expressions' section. I started working through the 'Object Oriented Programming' section.
+
+**Thoughts**: I feel as if I got a lot done in only 2 hours! I am also happy that I only have 3 more sections remaining in this curriculum. I'm finishing things left and right and it makes me so incredibly happy. 
+
+**Link(s) to work**:
+1. [freeCodeCamp](https://learn.freecodecamp.org/)

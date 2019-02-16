@@ -302,3 +302,8 @@ I spent 3 hours working on freeCodeCamp's Javascript curriculum today. I complet
 I studied all morning for my React assessment, which included me doing so practice coding. I had my assessment and live coded with the instructor for about an hour. I PASSED!!!! I am so excited to start my job search and celebrate! Oh, and I also wrote a blog post about why we need to use `this.setState()` instead of `this.state.KEY = VALUE`. Productive day!
 
 [Why Do We Use this.setState()?](http://torrnadoscodingadventures.com/why_do_we_use_this_setstate)
+
+### R1D43
+I spent almost a whole 2 hours working through freeCodeCamp's Javascript curriculum. I went back and completed the regex section and also finished the basic algorithm scripting section. I began working on the object oriented programming section and am really happy that I'm inching closer to finishing the curriculum.
+
+[freeCodeCamp](https://learn.freecodecamp.org/)
