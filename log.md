@@ -428,7 +428,16 @@
 
 **Today's Progress**: Today, I spent an hour and a half continuing my work through freeCodeCamp's Javascript curriculum. I finished the 'Object Oriented Programming' section, which officially means I've completed 7 of 10 sections. I also started working through the 'Functional Programming' section.
 
-**Thoughts**: I feel like I blew through the OO programming section because that is a huge aspect that Flatiron always pushed when teaching JS. It makes me feel confident in those skills. Now, with this new functional programming section, I believe it'll be a tough one for me. I completed the first 7 challenges today and some of them weren't easy for me. 
+**Thoughts**: I feel like I blew through the OO programming section because that is a huge aspect that Flatiron always pushed when teaching JS. It makes me feel confident in those skills. Now, with this new functional programming section, I believe it'll be a tough one for me. I completed the first 7 challenges today and some of them weren't easy for me.
 
 **Link(s) to work**:
 1. [freeCodeCamp](https://learn.freecodecamp.org/)
+
+### Day 45: February 17, 2019
+
+**Today's Progress**: During my assessment the other day, the instructor pointed out that whenever a component was rendered via clicking my navbar links the page was reloading. So, today I spent my 2.5 hours learning and implementing how to utilize both, `reactstrap` and `react-router-dom` together. I also learned and implemented how to redirect to another component after form submission.
+
+**Thoughts**: I wish figuring out the issues in my code always happened this easily! This is the first time I've really worked on a project after submission for this long. I still have so many ideas and I want to play around with the styling some more.
+
+**Link(s) to work**:
+1. [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)

@@ -312,3 +312,8 @@ I spent almost a whole 2 hours working through freeCodeCamp's Javascript curricu
 Today, I spent an hour and a half on freeCodeCamp's JS curriculum. I completed the OO programming section and started working on the functional programming section. I believe this section is going to be one of the most challenging so far for me. I'm excited to keep working through it.
 
 [freeCodeCamp](https://learn.freecodecamp.org/)
+
+### R1D45
+During my assessment the other day, the instructor pointed out that my pages were refreshing anytime a new component was rendered. So, today I spent my 2.5 hours of code figuring out how to work with `react-router-dom` and `reactstrap` together. Turns out, I only needed to import `Link` from `react-router-dom`. I also learned how to redirect to another component when criteria is met. I worked on a new branch to redirect to my ThankYou component rather than rendering it and styling it as an alert. I used the card styling via `reactstrap` and some CSS to style it instead. 
+
+[Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
