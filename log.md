@@ -441,3 +441,18 @@
 
 **Link(s) to work**:
 1. [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
+
+### Day 46: February 18, 2019
+
+**Today's Progress**: Today I spent my hour of code by working on Ruby kata's on CodeWars. I completed 7 kata's within the hour.
+
+**Thoughts**: I did the easiest kata's (8kyu), but I felt really great about how easy they were to work through. My answers are starting to fall inline with the 'best practice' solutions.
+
+**Link(s) to work**:
+1. [Abbreviate a Two Word Name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
+2. [Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009)
+3. [Remove exclamation marks](https://www.codewars.com/kata/57a0885cbb9944e24c00008e)
+4. [Reverse List Order](https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b)
+5. [Parse nice int from char problem](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1)
+6. [Removing Elements](https://www.codewars.com/kata/5769b3802ae6f8e4890009d2)
+7. [Count of positives/sum of negatives](https://www.codewars.com/kata/576bb71bbbcf0951d5000044)

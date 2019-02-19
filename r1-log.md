@@ -314,6 +314,23 @@ Today, I spent an hour and a half on freeCodeCamp's JS curriculum. I completed t
 [freeCodeCamp](https://learn.freecodecamp.org/)
 
 ### R1D45
-During my assessment the other day, the instructor pointed out that my pages were refreshing anytime a new component was rendered. So, today I spent my 2.5 hours of code figuring out how to work with `react-router-dom` and `reactstrap` together. Turns out, I only needed to import `Link` from `react-router-dom`. I also learned how to redirect to another component when criteria is met. I worked on a new branch to redirect to my ThankYou component rather than rendering it and styling it as an alert. I used the card styling via `reactstrap` and some CSS to style it instead. 
+During my assessment the other day, the instructor pointed out that my pages were refreshing anytime a new component was rendered. So, today I spent my 2.5 hours of code figuring out how to work with `react-router-dom` and `reactstrap` together. Turns out, I only needed to import `Link` from `react-router-dom`. I also learned how to redirect to another component when criteria is met. I worked on a new branch to redirect to my ThankYou component rather than rendering it and styling it as an alert. I used the card styling via `reactstrap` and some CSS to style it instead.
 
 [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
+
+### R1D46
+I spent my hour of code today by completing Katas on CodeWars. I worked through 7 problems, all in Ruby. I felt really happy at how easy it was to work through them and how my solutions are starting to line up with the 'best practice' solutions. 
+
+[Abbreviate a Two Word Name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
+
+[Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009)
+
+[Remove exclamation marks](https://www.codewars.com/kata/57a0885cbb9944e24c00008e)
+
+[Reverse List Order](https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b)
+
+[Parse nice int from char problem](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1)
+
+[Removing Elements](https://www.codewars.com/kata/5769b3802ae6f8e4890009d2)
+
+[Count of positives/sum of negatives](https://www.codewars.com/kata/576bb71bbbcf0951d5000044)
