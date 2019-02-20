@@ -319,7 +319,7 @@ During my assessment the other day, the instructor pointed out that my pages wer
 [Crawford-Wedding-Frontend](https://github.com/torianne02/crawford-wedding-frontend)
 
 ### R1D46
-I spent my hour of code today by completing Katas on CodeWars. I worked through 7 problems, all in Ruby. I felt really happy at how easy it was to work through them and how my solutions are starting to line up with the 'best practice' solutions. 
+I spent my hour of code today by completing Katas on CodeWars. I worked through 7 problems, all in Ruby. I felt really happy at how easy it was to work through them and how my solutions are starting to line up with the 'best practice' solutions.
 
 [Abbreviate a Two Word Name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
 
@@ -334,3 +334,22 @@ I spent my hour of code today by completing Katas on CodeWars. I worked through 
 [Removing Elements](https://www.codewars.com/kata/5769b3802ae6f8e4890009d2)
 
 [Count of positives/sum of negatives](https://www.codewars.com/kata/576bb71bbbcf0951d5000044)
+
+### R1D47
+Today I spent my hour of code working through Ruby and Javascript problems on CodeWars. I worked through 8 problems within the hour. 
+
+[Training JS #8: Conditional statement--switch](https://www.codewars.com/kata/572059afc2f4612825000d8a)
+
+[Training JS #5: Basic data types--Object](https://www.codewars.com/kata/571f1eb77e8954a812000837)
+
+[You Can't Code Under Pressure #1](https://www.codewars.com/kata/53ee5429ba190077850011d4)
+
+[Find the smallest integer in the array](https://www.codewars.com/kata/55a2d7ebe362935a210000b2)
+
+[Counting sheep...](https://www.codewars.com/kata/54edbc7200b811e956000556)
+
+[I love you, a little, a lot, passionately ... not at all](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296)
+
+[Function 2 - squaring an argument](https://www.codewars.com/kata/523b623152af8a30c6000027)
+
+[Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)

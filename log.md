@@ -456,3 +456,19 @@
 5. [Parse nice int from char problem](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1)
 6. [Removing Elements](https://www.codewars.com/kata/5769b3802ae6f8e4890009d2)
 7. [Count of positives/sum of negatives](https://www.codewars.com/kata/576bb71bbbcf0951d5000044)
+
+### Day 47: February 19, 2019
+
+**Today's Progress**: Today I spent my hour of code by working on Ruby and Javascript kata's on CodeWars. I completed 8 kata's within the hour.
+
+**Thoughts**: I did the easiest kata's (8kyu) again today, and I felt really great about how easy and fast I can solve these ones now. I am excited to move on to 7kyu problems and eventually feel this comfortable with them.
+
+**Link(s) to work**:
+1. [Training JS #8: Conditional statement--switch](https://www.codewars.com/kata/572059afc2f4612825000d8a)
+2. [Training JS #5: Basic data types--Object](https://www.codewars.com/kata/571f1eb77e8954a812000837)
+3. [You Can't Code Under Pressure #1](https://www.codewars.com/kata/53ee5429ba190077850011d4)
+4. [Find the smallest integer in the array](https://www.codewars.com/kata/55a2d7ebe362935a210000b2)
+5. [Counting sheep...](https://www.codewars.com/kata/54edbc7200b811e956000556)
+6. [I love you, a little, a lot, passionately ... not at all](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296)
+7. [Function 2 - squaring an argument](https://www.codewars.com/kata/523b623152af8a30c6000027)
+8. [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
