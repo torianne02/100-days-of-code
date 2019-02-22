@@ -490,3 +490,12 @@
 
 **Link(s) to work**:
 https://www.gatsbyjs.org/tutorial/
+
+### Day 50: February 22, 2019
+
+**Today's Progress**: I spent my hour of code continuing work on the Gatsby.js tutorial. I completed parts 6, 7, and 8 which continued focusing on GraphQL, how to programmatically create pages from data, and how to prepare a site to go live.
+
+**Thoughts**: I am officially finished with the tutorial and excited to start planning out my portfolio site. 
+
+**Link(s) to work**:
+https://www.gatsbyjs.org/tutorial/

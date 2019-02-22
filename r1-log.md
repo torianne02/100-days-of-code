@@ -363,3 +363,8 @@ https://www.gatsbyjs.org/tutorial/
 For my hour of code today, I continued working through the Gatsby tutorial. I completed parts 4 and 5, which specifically focused on Gatsby and it's relationship with GraphQL and its developer tool GraphiQL. This has really peaked my interest in GraphQL.
 
 https://www.gatsbyjs.org/tutorial/
+
+### R1D50
+Today I spent my hour finishing up the Gatsby tutorial. I completed parts 6, 7, and 8 which continued focusing on GraphQL, as well as programmatically creating pages and preparing a site to go live. I am excited to start planning the layout of my portfolio site now!
+
+https://www.gatsbyjs.org/tutorial/
