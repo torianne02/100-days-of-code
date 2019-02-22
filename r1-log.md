@@ -336,7 +336,7 @@ I spent my hour of code today by completing Katas on CodeWars. I worked through 
 [Count of positives/sum of negatives](https://www.codewars.com/kata/576bb71bbbcf0951d5000044)
 
 ### R1D47
-Today I spent my hour of code working through Ruby and Javascript problems on CodeWars. I worked through 8 problems within the hour. 
+Today I spent my hour of code working through Ruby and Javascript problems on CodeWars. I worked through 8 problems within the hour.
 
 [Training JS #8: Conditional statement--switch](https://www.codewars.com/kata/572059afc2f4612825000d8a)
 
@@ -353,3 +353,8 @@ Today I spent my hour of code working through Ruby and Javascript problems on Co
 [Function 2 - squaring an argument](https://www.codewars.com/kata/523b623152af8a30c6000027)
 
 [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
+
+### R1D48
+I spent my day today working through the Gatsby tutorial. I plan to make my portfolio website utilizing Gatsby, so I figured this would be a good place to start. I completed parts 0-3, which focused on setting up the development environment and general Gatsby information/layout.
+
+https://www.gatsbyjs.org/tutorial/

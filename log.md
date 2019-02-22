@@ -472,3 +472,12 @@
 6. [I love you, a little, a lot, passionately ... not at all](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296)
 7. [Function 2 - squaring an argument](https://www.codewars.com/kata/523b623152af8a30c6000027)
 8. [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
+
+### Day 48: February 20, 2019
+
+**Today's Progress**: I spent my day today learning Gatsby.js because I plan to build my portfolio project with it. There are 9 parts to this tutorial and I completed the first 4, parts 0-3. These parts focused on setting up the environment and on the basics of Gatsby.
+
+**Thoughts**: I feel as if working with Gatsby will help me better understand React components. I am excited to continue working through the rest of the tutorial and then start building my portfolio.
+
+**Link(s) to work**:
+1. https://www.gatsbyjs.org/tutorial/
