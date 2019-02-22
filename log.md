@@ -481,3 +481,12 @@
 
 **Link(s) to work**:
 1. https://www.gatsbyjs.org/tutorial/
+
+### Day 49: February 21, 2019
+
+**Today's Progress**: Today I continued working on the Gatsby.js tutorial. I completed parts 4 and 5, which focus on GraphQL and how to incorporate it into a Gatsby project. I also learned about GraphiQL, which is GraphQL's developer tool.
+
+**Thoughts**: I really liked learning about GraphQL and GraphiQL. I am interested in possibly learning the ins and outs of GraphQL now. I've only known SQL and SQLite, so it's nice to get exposure to something new.
+
+**Link(s) to work**:
+https://www.gatsbyjs.org/tutorial/

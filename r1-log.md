@@ -358,3 +358,8 @@ Today I spent my hour of code working through Ruby and Javascript problems on Co
 I spent my day today working through the Gatsby tutorial. I plan to make my portfolio website utilizing Gatsby, so I figured this would be a good place to start. I completed parts 0-3, which focused on setting up the development environment and general Gatsby information/layout.
 
 https://www.gatsbyjs.org/tutorial/
+
+### R1D49
+For my hour of code today, I continued working through the Gatsby tutorial. I completed parts 4 and 5, which specifically focused on Gatsby and it's relationship with GraphQL and its developer tool GraphiQL. This has really peaked my interest in GraphQL.
+
+https://www.gatsbyjs.org/tutorial/
