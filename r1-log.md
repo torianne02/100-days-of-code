@@ -368,3 +368,6 @@ https://www.gatsbyjs.org/tutorial/
 Today I spent my hour finishing up the Gatsby tutorial. I completed parts 6, 7, and 8 which continued focusing on GraphQL, as well as programmatically creating pages and preparing a site to go live. I am excited to start planning the layout of my portfolio site now!
 
 https://www.gatsbyjs.org/tutorial/
+
+### R1D51
+Today I have spent many hours, from 12:00am - 1:30am as well as 8:00am - 1:00pm, helping my fiance create a chrome extension using javascript. He buys and sells tickets on StubHub, so we created an extension to display details like the face values of tickets and whatnot on the actual game ticket listings page. I've taught him a lot today.

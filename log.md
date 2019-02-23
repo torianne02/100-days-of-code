@@ -495,7 +495,13 @@ https://www.gatsbyjs.org/tutorial/
 
 **Today's Progress**: I spent my hour of code continuing work on the Gatsby.js tutorial. I completed parts 6, 7, and 8 which continued focusing on GraphQL, how to programmatically create pages from data, and how to prepare a site to go live.
 
-**Thoughts**: I am officially finished with the tutorial and excited to start planning out my portfolio site. 
+**Thoughts**: I am officially finished with the tutorial and excited to start planning out my portfolio site.
 
 **Link(s) to work**:
 https://www.gatsbyjs.org/tutorial/
+
+### Day 51: February 23, 2019
+
+**Today's Progress**: I spent 6 hours between midnight and 1:00pm helping my fiance build a chrome extension using javascript. He buys and sells tickets on StubHub and always switches from one page to the next to the next to see all the info he needs in order to determine if the purchase is worth it. So, we create a chrome extension that allows him to see all the information on the on game ticket listings page.
+
+**Thoughts**: It was awesome getting to teach him stuff that he never knew. He even cried a little bit because of how proud he is of me. So, I'd say it's been a good day coding wise.
