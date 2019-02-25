@@ -371,3 +371,28 @@ https://www.gatsbyjs.org/tutorial/
 
 ### R1D51
 Today I have spent many hours, from 12:00am - 1:30am as well as 8:00am - 1:00pm, helping my fiance create a chrome extension using javascript. He buys and sells tickets on StubHub, so we created an extension to display details like the face values of tickets and whatnot on the actual game ticket listings page. I've taught him a lot today.
+
+### R1D52
+I really wasn't feeling it today and almost didn't even start my hour of code, but here I am an hour later updating! I got a lot done in the hour. I worked on algorithms on CodeWars and also started the 10 day Javascript challenge on HackerRank. I also accidentally started working on the Ruby tutorial on HackerRank thinking it was more complex. I may continue working through it to review basics. I am proud of how much I accomplished in the hour I didn't even want to start.
+
+[Hello, Name or World!](https://www.codewars.com/kata/57e3f79c9cb119374600046b)
+
+[Is the string uppercase?](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b)
+
+[Correct the mistakes of the character recognition software](https://www.codewars.com/kata/577bd026df78c19bca0002c0)
+
+[Grasshopper - Personalized Message](https://www.codewars.com/kata/5772da22b89313a4d50012f7)
+
+[Transportation on vacation](https://www.codewars.com/kata/568d0dd208ee69389d000016)
+
+[Day 0: Data Types](https://www.hackerrank.com/challenges/js10-data-types)
+
+[Day 2: Loops](https://www.hackerrank.com/challenges/js10-loops)
+
+[Day 7: Regular Expressions I](https://www.hackerrank.com/challenges/js10-regexp-1)
+
+[Ruby Tutorial - Hello HackerRank!](https://www.hackerrank.com/challenges/ruby-hello-world)
+
+[Ruby Tutorial - Everything is an Object](https://www.hackerrank.com/challenges/ruby-tutorial-everything-is-an-object)
+
+[Ruby Tutorial - Object Methods](https://www.hackerrank.com/challenges/ruby-tutorial-object-methods)

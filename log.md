@@ -489,7 +489,7 @@
 **Thoughts**: I really liked learning about GraphQL and GraphiQL. I am interested in possibly learning the ins and outs of GraphQL now. I've only known SQL and SQLite, so it's nice to get exposure to something new.
 
 **Link(s) to work**:
-https://www.gatsbyjs.org/tutorial/
+1. https://www.gatsbyjs.org/tutorial/
 
 ### Day 50: February 22, 2019
 
@@ -498,10 +498,29 @@ https://www.gatsbyjs.org/tutorial/
 **Thoughts**: I am officially finished with the tutorial and excited to start planning out my portfolio site.
 
 **Link(s) to work**:
-https://www.gatsbyjs.org/tutorial/
+1. https://www.gatsbyjs.org/tutorial/
 
 ### Day 51: February 23, 2019
 
 **Today's Progress**: I spent 6 hours between midnight and 1:00pm helping my fiance build a chrome extension using javascript. He buys and sells tickets on StubHub and always switches from one page to the next to the next to see all the info he needs in order to determine if the purchase is worth it. So, we create a chrome extension that allows him to see all the information on the on game ticket listings page.
 
 **Thoughts**: It was awesome getting to teach him stuff that he never knew. He even cried a little bit because of how proud he is of me. So, I'd say it's been a good day coding wise.
+
+### Day 52: February 24, 2019
+
+**Today's Progress**: I spent my hour of code today working through algorithm problems on CodeWars as well as started the 10 days of code challenge on HackerRank. I also started the "Ruby Tutorial" on accident, thinking it was more complex concepts. May work through it to review basics.  
+
+**Thoughts**: I really wasn't feeling it today and almost didn't complete my hour of code. I buckled down and got it done though, so I'm happy with myself. I also got a lot done in one hour, which makes me feel confident in my skills that I worked on today. 
+
+**Link(s) to work**:
+1. [Hello, Name or World!](https://www.codewars.com/kata/57e3f79c9cb119374600046b)
+2. [Is the string uppercase?](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b)
+3. [Correct the mistakes of the character recognition software](https://www.codewars.com/kata/577bd026df78c19bca0002c0)
+4. [Grasshopper - Personalized Message](https://www.codewars.com/kata/5772da22b89313a4d50012f7)
+5. [Transportation on vacation](https://www.codewars.com/kata/568d0dd208ee69389d000016)
+6. [Day 0: Data Types](https://www.hackerrank.com/challenges/js10-data-types)
+7. [Day 2: Loops](https://www.hackerrank.com/challenges/js10-loops)
+8. [Day 7: Regular Expressions I](https://www.hackerrank.com/challenges/js10-regexp-1)
+9. [Ruby Tutorial - Hello HackerRank!](https://www.hackerrank.com/challenges/ruby-hello-world)
+10. [Ruby Tutorial - Everything is an Object](https://www.hackerrank.com/challenges/ruby-tutorial-everything-is-an-object)
+11. [Ruby Tutorial - Object Methods](https://www.hackerrank.com/challenges/ruby-tutorial-object-methods)
