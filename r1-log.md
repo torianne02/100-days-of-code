@@ -396,3 +396,8 @@ I really wasn't feeling it today and almost didn't even start my hour of code, b
 [Ruby Tutorial - Everything is an Object](https://www.hackerrank.com/challenges/ruby-tutorial-everything-is-an-object)
 
 [Ruby Tutorial - Object Methods](https://www.hackerrank.com/challenges/ruby-tutorial-object-methods)
+
+### R1D53
+Today, I started working on a weather app using only React. It's definitely a different world not using Redux alongside React, but I've got the hang of it. I learned how to hide an API key and call it within a React app. I finished the basics of the app, but still need to work on the styling.
+
+[Weather Caster](https://github.com/torianne02/weather-caster)

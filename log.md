@@ -480,7 +480,7 @@
 **Thoughts**: I feel as if working with Gatsby will help me better understand React components. I am excited to continue working through the rest of the tutorial and then start building my portfolio.
 
 **Link(s) to work**:
-1. https://www.gatsbyjs.org/tutorial/
+1. [Gatsby.js](https://www.gatsbyjs.org/tutorial/)
 
 ### Day 49: February 21, 2019
 
@@ -489,7 +489,7 @@
 **Thoughts**: I really liked learning about GraphQL and GraphiQL. I am interested in possibly learning the ins and outs of GraphQL now. I've only known SQL and SQLite, so it's nice to get exposure to something new.
 
 **Link(s) to work**:
-1. https://www.gatsbyjs.org/tutorial/
+1. [Gatsby.js](https://www.gatsbyjs.org/tutorial/)
 
 ### Day 50: February 22, 2019
 
@@ -498,7 +498,7 @@
 **Thoughts**: I am officially finished with the tutorial and excited to start planning out my portfolio site.
 
 **Link(s) to work**:
-1. https://www.gatsbyjs.org/tutorial/
+1. [Gatsby.js](https://www.gatsbyjs.org/tutorial/)
 
 ### Day 51: February 23, 2019
 
@@ -510,7 +510,7 @@
 
 **Today's Progress**: I spent my hour of code today working through algorithm problems on CodeWars as well as started the 10 days of code challenge on HackerRank. I also started the "Ruby Tutorial" on accident, thinking it was more complex concepts. May work through it to review basics.  
 
-**Thoughts**: I really wasn't feeling it today and almost didn't complete my hour of code. I buckled down and got it done though, so I'm happy with myself. I also got a lot done in one hour, which makes me feel confident in my skills that I worked on today. 
+**Thoughts**: I really wasn't feeling it today and almost didn't complete my hour of code. I buckled down and got it done though, so I'm happy with myself. I also got a lot done in one hour, which makes me feel confident in my skills that I worked on today.
 
 **Link(s) to work**:
 1. [Hello, Name or World!](https://www.codewars.com/kata/57e3f79c9cb119374600046b)
@@ -524,3 +524,12 @@
 9. [Ruby Tutorial - Hello HackerRank!](https://www.hackerrank.com/challenges/ruby-hello-world)
 10. [Ruby Tutorial - Everything is an Object](https://www.hackerrank.com/challenges/ruby-tutorial-everything-is-an-object)
 11. [Ruby Tutorial - Object Methods](https://www.hackerrank.com/challenges/ruby-tutorial-object-methods)
+
+### Day 53: February 25, 2019
+
+**Today's Progress**: I spent the day today creating a weather web-app using only React. I learned how to hide and call an API key within a React app. I finished the basics of the site today, but there is very little styling. My hope is to work on the styling tomorrow.   
+
+**Thoughts**: This is my first time creating a sole React web-application and it is definitely different than a React-Redux application. It took some adjustment in the way I was thinking the set up would be originally, but I got it all figured out!
+
+**Link(s) to work**:
+1. [Weather Caster](https://github.com/torianne02/weather-caster)
