@@ -421,3 +421,8 @@ I only coded for the one hour today. I continued working through the Javascript 
 [Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types)
 
 [Javascript Algorithms and Data Structures Certification](https://learn.freecodecamp.org/)
+
+### R1D56
+In an effort to learn more about CSS and create a responsive layout for my weather app, I picked back up where I left off about a year ago in freeCodeCamp's Responsive Web Design Certification. I completed the entire 'Applied Visual Design' section and got a kick out of making a heart as well as making it beat!
+
+[Responsive Web Design Certification](https://learn.freecodecamp.org/)

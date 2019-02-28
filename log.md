@@ -547,7 +547,7 @@
 
 **Today's Progress**: I only coded for the one hour today. I continued working through the Javascript curriculum on freeCodeCamp. I completed 7 of the 'Functional Programming' lessons. I also worked through some of the problems on HackerRank's 10 days of JS and 30 days of Coding challenges.  
 
-**Thoughts**: I worked out this afternoon and felt pretty much dead afterwards which made me really regret not getting my hour of code in beforehand. It was a struggle to get through as much as I did. Tomorrow will be a new day and I'll try to work on making the weather projects CSS responsive. 
+**Thoughts**: I worked out this afternoon and felt pretty much dead afterwards which made me really regret not getting my hour of code in beforehand. It was a struggle to get through as much as I did. Tomorrow will be a new day and I'll try to work on making the weather projects CSS responsive.
 
 **Link(s) to work**:
 1. [Day 1: Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators)
@@ -556,3 +556,12 @@
 4. [Day 0: Hello, World.](https://www.hackerrank.com/challenges/30-hello-world)
 5. [Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types)
 6. [Javascript Algorithms and Data Structures Certification](https://learn.freecodecamp.org/)
+
+### Day 56: February 28, 2019
+
+**Today's Progress**: In an effort to create a responsive layout for my weather caster project, I started working through freeCodeCamp's Responsive Web Design Certification after not touching it for about a year. I completed the whole 'Applied Visual Design' section.
+
+**Thoughts**: I really enjoyed creating a heart with CSS and making it beat. I learned A LOT today about CSS that I never knew. I'm super excited to continue learning more about design. I hope that this helps design come to me a little bit easier than at the moment.
+
+**Link(s) to work**:
+1. [Responsive Web Design Certification](https://learn.freecodecamp.org/)
