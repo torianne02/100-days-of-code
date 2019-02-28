@@ -533,3 +533,26 @@
 
 **Link(s) to work**:
 1. [Weather Caster](https://github.com/torianne02/weather-caster)
+
+### Day 54: February 26, 2019
+
+**Today's Progress**: Today I worked on the styling portion of my weather app. I definitely need to update the CSS again so that it can be a responsive layout, but at full screen it looks great at the moment. More work for another day.
+
+**Thoughts**: This is the first time I've really dived into the UI of a website and it was definitely not easy. I am excited to learn more and get more experience with UI. It definitely does not come naturally to me.
+
+**Link(s) to work**:
+1. [Weather Caster](https://github.com/torianne02/weather-caster)
+
+### Day 55: February 27, 2019
+
+**Today's Progress**: I only coded for the one hour today. I continued working through the Javascript curriculum on freeCodeCamp. I completed 7 of the 'Functional Programming' lessons. I also worked through some of the problems on HackerRank's 10 days of JS and 30 days of Coding challenges.  
+
+**Thoughts**: I worked out this afternoon and felt pretty much dead afterwards which made me really regret not getting my hour of code in beforehand. It was a struggle to get through as much as I did. Tomorrow will be a new day and I'll try to work on making the weather projects CSS responsive. 
+
+**Link(s) to work**:
+1. [Day 1: Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators)
+2. [Day 1: Functions](https://www.hackerrank.com/challenges/js10-function)
+3. [Day 1: Let and Const](https://www.hackerrank.com/challenges/js10-let-and-const)
+4. [Day 0: Hello, World.](https://www.hackerrank.com/challenges/30-hello-world)
+5. [Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types)
+6. [Javascript Algorithms and Data Structures Certification](https://learn.freecodecamp.org/)

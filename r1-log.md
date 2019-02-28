@@ -401,3 +401,23 @@ I really wasn't feeling it today and almost didn't even start my hour of code, b
 Today, I started working on a weather app using only React. It's definitely a different world not using Redux alongside React, but I've got the hang of it. I learned how to hide an API key and call it within a React app. I finished the basics of the app, but still need to work on the styling.
 
 [Weather Caster](https://github.com/torianne02/weather-caster)
+
+### R1D54
+I worked on the CSS styling of my weather app today and it definitely wasn't easy. This is my first time deeply working with the UI of a project and it does not come naturally at all to me. The CSS needs work, as it does not have a responsive layout at all.  
+
+[Weather Caster](https://github.com/torianne02/weather-caster)
+
+### R1D55
+I only coded for the one hour today. I continued working through the Javascript curriculum on freeCodeCamp. I completed 7 of the 'Functional Programming' lessons. I also worked through some of the problems on HackerRank's 10 days of JS and 30 days of Coding challenges.  
+
+[Day 1: Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators)
+
+[Day 1: Functions](https://www.hackerrank.com/challenges/js10-function)
+
+[Day 1: Let and Const](https://www.hackerrank.com/challenges/js10-let-and-const)
+
+[Day 0: Hello, World.](https://www.hackerrank.com/challenges/30-hello-world)
+
+[Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types)
+
+[Javascript Algorithms and Data Structures Certification](https://learn.freecodecamp.org/)
