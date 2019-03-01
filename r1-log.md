@@ -426,3 +426,8 @@ I only coded for the one hour today. I continued working through the Javascript 
 In an effort to learn more about CSS and create a responsive layout for my weather app, I picked back up where I left off about a year ago in freeCodeCamp's Responsive Web Design Certification. I completed the entire 'Applied Visual Design' section and got a kick out of making a heart as well as making it beat!
 
 [Responsive Web Design Certification](https://learn.freecodecamp.org/)
+
+### R1D57
+Today I spent the day working through freeCodeCamp's Responsive Web Design Certification again. I completed 3 sections, 'Applied Accessibility', 'Responsive Web Design Principles', and 'CSS Flexbox'. I only have 2 sections left of the certification which excites me!
+
+[Responsive Web Design Certification](https://learn.freecodecamp.org/)

@@ -565,3 +565,12 @@
 
 **Link(s) to work**:
 1. [Responsive Web Design Certification](https://learn.freecodecamp.org/)
+
+### Day 57: March 1, 2019
+
+**Today's Progress**: Today I continued working through the responsive web design cert on freeCodeCamp. I completed the 'Applied Accessibility', 'Responsive Web Design Principles', and 'CSS Flexbox' sections.
+
+**Thoughts**: I am only 2 sections off of completing the certification and getting that under my belt, which excites me. I like the fact that I'm taking a deeper dive into a language I already know. 
+
+**Link(s) to work**:
+1. [Responsive Web Design Certification](https://learn.freecodecamp.org/)
