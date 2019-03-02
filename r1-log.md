@@ -431,3 +431,8 @@ In an effort to learn more about CSS and create a responsive layout for my weath
 Today I spent the day working through freeCodeCamp's Responsive Web Design Certification again. I completed 3 sections, 'Applied Accessibility', 'Responsive Web Design Principles', and 'CSS Flexbox'. I only have 2 sections left of the certification which excites me!
 
 [Responsive Web Design Certification](https://learn.freecodecamp.org/)
+
+### R1D58
+Since I don't have the best eye for design, I have been looking for a layout that I wanted to build my portfolio site based on. I finally found one today and the developer was nice enough to turn it into a gatsby starter kit. So, I officially got my portfolio site started today using it and Contentful.
+
+[VF-Portfolio](https://github.com/torianne02/vf-portfolio)

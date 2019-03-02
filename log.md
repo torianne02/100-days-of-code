@@ -570,7 +570,16 @@
 
 **Today's Progress**: Today I continued working through the responsive web design cert on freeCodeCamp. I completed the 'Applied Accessibility', 'Responsive Web Design Principles', and 'CSS Flexbox' sections.
 
-**Thoughts**: I am only 2 sections off of completing the certification and getting that under my belt, which excites me. I like the fact that I'm taking a deeper dive into a language I already know. 
+**Thoughts**: I am only 2 sections off of completing the certification and getting that under my belt, which excites me. I like the fact that I'm taking a deeper dive into a language I already know.
 
 **Link(s) to work**:
 1. [Responsive Web Design Certification](https://learn.freecodecamp.org/)
+
+### Day 57: March 1, 2019
+
+**Today's Progress**: Today I finally found a layout that I liked enough to build my first portfolio site base on. Luckily enough, the developer made it a starter-kit and I've officially got my site started! I am building it using the Gatsby starter-kit and Contentful.
+
+**Thoughts**: I am excited to personalize this layout with my links and colors that I'd like to use. Hopefully I'm not too picky about colors and it doesn't take me forever to find and choose them. I am also excited to get to know Contentful and officially start posting on Medium. So far, I've only used Flatiron's blog domain they provided for us as students. 
+
+**Link(s) to work**:
+1. [VF-Portfolio](https://github.com/torianne02/vf-portfolio)
