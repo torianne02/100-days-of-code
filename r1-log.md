@@ -436,3 +436,8 @@ Today I spent the day working through freeCodeCamp's Responsive Web Design Certi
 Since I don't have the best eye for design, I have been looking for a layout that I wanted to build my portfolio site based on. I finally found one today and the developer was nice enough to turn it into a gatsby starter kit. So, I officially got my portfolio site started today using it and Contentful.
 
 [VF-Portfolio](https://github.com/torianne02/vf-portfolio)
+
+### R1D59
+I continued working on my portfolio site. I picked out my theme colors and edited some CSS in regards to my image in the about section. I also started swapping out the defualt info with my personal social links and projects on Contentful. 
+
+[VF-Portfolio](https://github.com/torianne02/vf-portfolio)

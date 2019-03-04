@@ -583,3 +583,12 @@
 
 **Link(s) to work**:
 1. [VF-Portfolio](https://github.com/torianne02/vf-portfolio)
+
+### Day 59: March 3, 2019
+
+**Today's Progress**: I continued working on my portfolio site today. I picked out colors for my theme and started changing out the content on Contentful. I uploaded an image of myself and replaced all the social links with my own personal links. I also added all of my projects but still need to screenshot pictures for them.
+
+**Thoughts**: Right at the end I changed the Medium username from the default one to mine and it made everything break since I have no articles published. So, tomorrow I am going to attempt to publish a few of my Flatiron blog posts to Medium and see if that fixes things!
+
+**Link(s) to work**:
+1. [VF-Portfolio](https://github.com/torianne02/vf-portfolio)
