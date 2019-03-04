@@ -592,3 +592,12 @@
 
 **Link(s) to work**:
 1. [VF-Portfolio](https://github.com/torianne02/vf-portfolio)
+
+### Day 60: March 4, 2019
+
+**Today's Progress**: Today I continued working on my portfolio site. I filled in my 'about me' section. I also ran into some issues with outdated versions of packages and plugins, which I updated. I deleted unused code and removed the templates logos.
+
+**Thoughts**: I spent a lot of time working today but feel like I didn't accomplish a lot. I'm considering scraping this and starting from scratch without a template or at least only taking a few things from this template. I've been getting a little lost trying to understand how the code works. I'm going to keep working through it all. 
+
+**Link(s) to work**:
+1. [VF-Portfolio](https://github.com/torianne02/vf-portfolio)

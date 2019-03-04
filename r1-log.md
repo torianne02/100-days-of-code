@@ -438,6 +438,11 @@ Since I don't have the best eye for design, I have been looking for a layout tha
 [VF-Portfolio](https://github.com/torianne02/vf-portfolio)
 
 ### R1D59
-I continued working on my portfolio site. I picked out my theme colors and edited some CSS in regards to my image in the about section. I also started swapping out the defualt info with my personal social links and projects on Contentful. 
+I continued working on my portfolio site. I picked out my theme colors and edited some CSS in regards to my image in the about section. I also started swapping out the defualt info with my personal social links and projects on Contentful.
+
+[VF-Portfolio](https://github.com/torianne02/vf-portfolio)
+
+### R1D60
+Today, I spent time working on my portfolio site again. I hit a few speed bumps with outdated plugins and packages so I spent a lot of time updating them. I also added new titles and updated my 'about me' section. I also removed unused images and code.
 
 [VF-Portfolio](https://github.com/torianne02/vf-portfolio)
