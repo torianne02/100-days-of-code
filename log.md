@@ -597,7 +597,16 @@
 
 **Today's Progress**: Today I continued working on my portfolio site. I filled in my 'about me' section. I also ran into some issues with outdated versions of packages and plugins, which I updated. I deleted unused code and removed the templates logos.
 
-**Thoughts**: I spent a lot of time working today but feel like I didn't accomplish a lot. I'm considering scraping this and starting from scratch without a template or at least only taking a few things from this template. I've been getting a little lost trying to understand how the code works. I'm going to keep working through it all. 
+**Thoughts**: I spent a lot of time working today but feel like I didn't accomplish a lot. I'm considering scraping this and starting from scratch without a template or at least only taking a few things from this template. I've been getting a little lost trying to understand how the code works. I'm going to keep working through it all.
 
 **Link(s) to work**:
 1. [VF-Portfolio](https://github.com/torianne02/vf-portfolio)
+
+### Day 61: March 5, 2019
+
+**Today's Progress**: I decided to try to add some styling to one of my old projects today. I added bootstrap to my rails project, which is the 2nd time I've ever used bootstrap.
+
+**Thoughts**: It's definitely interesting attempting to add new class names and whatnot to div tags and having things break on me. It's just a lot more work than I originally anticipated but I enjoy the work.
+
+**Link(s) to work**:
+1. [PintTrackr Rails/JS](https://github.com/torianne02/pint-trackr-rails-js)

@@ -446,3 +446,8 @@ I continued working on my portfolio site. I picked out my theme colors and edite
 Today, I spent time working on my portfolio site again. I hit a few speed bumps with outdated plugins and packages so I spent a lot of time updating them. I also added new titles and updated my 'about me' section. I also removed unused images and code.
 
 [VF-Portfolio](https://github.com/torianne02/vf-portfolio)
+
+### R1D61
+I decided to work on styling for an old project to get more experience working with bootstrap. I hit a few snags adding new class names to a few div tags, but overall it's enjoyable. 
+
+[PintTrackr Rails/JS](https://github.com/torianne02/pint-trackr-rails-js)
