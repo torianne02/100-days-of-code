@@ -448,6 +448,14 @@ Today, I spent time working on my portfolio site again. I hit a few speed bumps 
 [VF-Portfolio](https://github.com/torianne02/vf-portfolio)
 
 ### R1D61
-I decided to work on styling for an old project to get more experience working with bootstrap. I hit a few snags adding new class names to a few div tags, but overall it's enjoyable. 
+I decided to work on styling for an old project to get more experience working with bootstrap. I hit a few snags adding new class names to a few div tags, but overall it's enjoyable.
+
+[PintTrackr Rails/JS](https://github.com/torianne02/pint-trackr-rails-js)
+
+### R1D62
+I decided to jump into the computer science course that Flatiron offers. Today I covered Big O and started into the recursion section.
+
+### R1D63
+Today I picked back up on adding styling to my PintTrackr Rails/JS project. I changed all of my buttons and some links to have bootstrap button styling. I also added navbar styling as well as a background color for the navbar. I changed all my link colors to black so that they don't appear blue. There are a few other things I changed, and, overall, I really enjoyed learning to work with bootstrap and rails together.
 
 [PintTrackr Rails/JS](https://github.com/torianne02/pint-trackr-rails-js)

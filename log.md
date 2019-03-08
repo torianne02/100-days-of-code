@@ -610,3 +610,18 @@
 
 **Link(s) to work**:
 1. [PintTrackr Rails/JS](https://github.com/torianne02/pint-trackr-rails-js)
+
+### Day 62: March 6, 2019
+
+**Today's Progress**: Today I decided to start working through Flatiron's computer science course. I learned more about Big O, which I was honestly a little lost with for a while.
+
+**Thoughts**: I was happy to learn about Big O today because I hadn't learned much about the concept. I always heard people talking about it but never truly understood it myself. I was happy to see the first thing Flatiron covered was Big O.
+
+### Day 63: March 7, 2019
+
+**Today's Progress**: I picked back up on styling my PintTrackr Rails/JS project today. I styled all of my buttons using bootstrap. I also used CSS within the 'link_to' tags to change the color of my links to black. I added bootstrap navbar styling and a background color to it.
+
+**Thoughts**: I finally think I finally have a product that I am happy with. I am going to explore possibly deploying this application now, which will be my first time. 
+
+**Link(s) to work**:
+1. [PintTrackr Rails/JS](https://github.com/torianne02/pint-trackr-rails-js)
