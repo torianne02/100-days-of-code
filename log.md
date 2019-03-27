@@ -626,11 +626,11 @@
 **Link(s) to work**:
 1. [PintTrackr Rails/JS](https://github.com/torianne02/pint-trackr-rails-js)
 
-######### GAP DUE TO IRELAND VACATION #########
+######################### GAP DUE TO IRELAND VACATION #########################
 
 ### Day 83: March 27, 2019
 
-**Today's Progress**: Today I realized while filling out job applications that I never created my README for the Weather Caster application I made earlier this month. I decided to get that completed. I also worked through a few of Flatiron's computer science lessons. 
+**Today's Progress**: Today I realized while filling out job applications that I never created my README for the Weather Caster application I made earlier this month. I decided to get that completed. I also worked through a few of Flatiron's computer science lessons.
 
 **Thoughts**: I feel kind of sketchy picking back up after missing 20 days in a row due to vacation, but everyone is telling me that it is more for the habit to form and less for me to get down on myself for not making time on vacation to code. I mean, a vacation is a vacation. So, I'll be tacking on those missed 20 days to the end of my 100 days count.
 

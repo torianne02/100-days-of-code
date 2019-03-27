@@ -460,7 +460,7 @@ Today I picked back up on adding styling to my PintTrackr Rails/JS project. I ch
 
 [PintTrackr Rails/JS](https://github.com/torianne02/pint-trackr-rails-js)
 
-######### GAP DUE TO IRELAND VACATION #########
+######################### GAP DUE TO IRELAND VACATION #########################
 
 ### R1D83
 Although it feels terrible, I am tacking on the 20 days that I missed due to vacation to the end of my 100 days. I was told by fellow participants that I shouldn't be down on myself for not coding while on vacation and that I should just add them to the end. So, that's what I am going to do. I have benefited greatly from this challenge and I won't stop now. Plus, I already plan on doing a second round of it soon after completing this one anyways!!
