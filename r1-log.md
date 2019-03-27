@@ -459,3 +459,12 @@ I decided to jump into the computer science course that Flatiron offers. Today I
 Today I picked back up on adding styling to my PintTrackr Rails/JS project. I changed all of my buttons and some links to have bootstrap button styling. I also added navbar styling as well as a background color for the navbar. I changed all my link colors to black so that they don't appear blue. There are a few other things I changed, and, overall, I really enjoyed learning to work with bootstrap and rails together.
 
 [PintTrackr Rails/JS](https://github.com/torianne02/pint-trackr-rails-js)
+
+######### GAP DUE TO IRELAND VACATION #########
+
+### R1D83
+Although it feels terrible, I am tacking on the 20 days that I missed due to vacation to the end of my 100 days. I was told by fellow participants that I shouldn't be down on myself for not coding while on vacation and that I should just add them to the end. So, that's what I am going to do. I have benefited greatly from this challenge and I won't stop now. Plus, I already plan on doing a second round of it soon after completing this one anyways!!
+
+Today, I worked on adding a README to the Weather Caster app that I built earlier this month. I also worked through a few lessons of Flatiron's computer science course.
+
+[Weather Caster](https://github.com/torianne02/weather-caster)
