@@ -18,3 +18,8 @@ I continued working on my portfolio project today. I moved on to my about me pag
 Today I spent my hour of code working through JavaScript problems on HackerRank. I also worked on my portfolio project. I'm still working on getting the layout to be responsive, so lots of CSS and reactstrap being used at the moment.
 
 [Portfolio Project](https://github.com/torianne02/victoria-fluharty-portfolio)
+
+### R2D4
+May the 4th be with you! :lightsaber: ... I successfully figured out how to make my text size responsive by using `vw` vs `px`. I also added my stack to my about me page. My portfolio is coming along. Next step is finishing my about me page and moving on to my contact page, which will be a challenge.
+
+ [Portfolio Project](https://github.com/torianne02/victoria-fluharty-portfolio)
