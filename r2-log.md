@@ -22,4 +22,7 @@ Today I spent my hour of code working through JavaScript problems on HackerRank.
 ### R2D4
 May the 4th be with you! :lightsaber: ... I successfully figured out how to make my text size responsive by using `vw` vs `px`. I also added my stack to my about me page. My portfolio is coming along. Next step is finishing my about me page and moving on to my contact page, which will be a challenge.
 
- [Portfolio Project](https://github.com/torianne02/victoria-fluharty-portfolio)
+[Portfolio Project](https://github.com/torianne02/victoria-fluharty-portfolio)
+
+### R2D5
+Today I spent the day trying to work through algorithms on HackerRank. I tried 3, but only got 1 completed. My fiance and I did a 13 mile hike this morning and I've been exhausted. Brain didn't function well. 
