@@ -28,4 +28,7 @@ May the 4th be with you! :lightsaber: ... I successfully figured out how to make
 Today I spent the day trying to work through algorithms on HackerRank. I tried 3, but only got 1 completed. My fiance and I did a 13 mile hike this morning and I've been exhausted. Brain didn't function well.
 
 ### R2D6
-I took another crack at the problems I had a hard time working through yesterday because I was so tired. I completed them!! In total, I completed 5 JavaScript algorithm problems on HackerRank. This is my first day getting that many problems completed in over a month. I'm finally starting to feel like myself again. 
+I took another crack at the problems I had a hard time working through yesterday because I was so tired. I completed them!! In total, I completed 5 JavaScript algorithm problems on HackerRank. This is my first day getting that many problems completed in over a month. I'm finally starting to feel like myself again.
+
+### R2D7
+I spent my hour today completing more algorithm questions on HackerRank. I completed 3 more problems today. 
