@@ -31,4 +31,9 @@ Today I spent the day trying to work through algorithms on HackerRank. I tried 3
 I took another crack at the problems I had a hard time working through yesterday because I was so tired. I completed them!! In total, I completed 5 JavaScript algorithm problems on HackerRank. This is my first day getting that many problems completed in over a month. I'm finally starting to feel like myself again.
 
 ### R2D7
-I spent my hour today completing more algorithm questions on HackerRank. I completed 3 more problems today. 
+I spent my hour today completing more algorithm questions on HackerRank. I completed 3 more problems today.
+
+### R2D8
+I went back to making progress on my portfolio site. I am still having difficulty getting my logo image sizes to be responsive. I did figure out what I was doing wrong in regards to changing the background color. I also found the color palette I want and began implementing it.
+
+[Portfolio Project](https://github.com/torianne02/victoria-fluharty-portfolio)
