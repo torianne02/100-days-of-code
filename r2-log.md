@@ -37,3 +37,6 @@ I spent my hour today completing more algorithm questions on HackerRank. I compl
 I went back to making progress on my portfolio site. I am still having difficulty getting my logo image sizes to be responsive. I did figure out what I was doing wrong in regards to changing the background color. I also found the color palette I want and began implementing it.
 
 [Portfolio Project](https://github.com/torianne02/victoria-fluharty-portfolio)
+
+### R2D9
+I decided to spend the day reviewing the basics of Ruby and Javascript. I went over the creation of classes and class methods. I worked on Repl.it and accidentally didn't save the repl's. Oops!
