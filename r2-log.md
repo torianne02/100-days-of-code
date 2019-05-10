@@ -40,3 +40,8 @@ I went back to making progress on my portfolio site. I am still having difficult
 
 ### R2D9
 I decided to spend the day reviewing the basics of Ruby and Javascript. I went over the creation of classes and class methods. I worked on Repl.it and accidentally didn't save the repl's. Oops!
+
+### R2D10
+I received a take home coding challenge after a successful video IV. I have spent about 3 hours on it so far today. My task is to build a Ruby API without utilizing Rails, so I'm attempting to use Sinatra and Grape to accomplish this. Building a Ruby app from scratch again without any help has definitely been a bit of a challenge. I needed to shake some dust off of the ol' brain here.
+
+[Pizza Analytics](https://github.com/torianne02/pizza-analytics)
