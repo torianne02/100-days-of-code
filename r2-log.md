@@ -45,3 +45,23 @@ I decided to spend the day reviewing the basics of Ruby and Javascript. I went o
 I received a take home coding challenge after a successful video IV. I have spent about 3 hours on it so far today. My task is to build a Ruby API without utilizing Rails, so I'm attempting to use Sinatra and Grape to accomplish this. Building a Ruby app from scratch again without any help has definitely been a bit of a challenge. I needed to shake some dust off of the ol' brain here.
 
 [Pizza Analytics](https://github.com/torianne02/pizza-analytics)
+
+### R2D11
+I continued working on the take home coding challenge. I was able to get the API fully functioning with Grape, ActiveRecord, and Sinatra. I need to use Sequel instead of ActiveRecord though, so I'll be learning and incorporating that tomorrow.
+
+[Pizza Analytics](https://github.com/torianne02/pizza-analytics)
+
+### R2D12
+Today I learned about and implemented Sequel into my project. I successfully finished building the API using Sequel, Grape, and Sinatra. I had to use algorithm logic within the API endpoints to display the return the correct data sets.
+
+[Pizza Analytics](https://github.com/torianne02/pizza-analytics)
+
+### R2D13
+I started working on the React frontend of this take home coding assignment. I successfully completed the whole thing by midnight. I used reactstrap to add minimal styling to the site. I also wrote the README in detail.
+
+[Pizza Analytics Frontend](https://github.com/torianne02/pizza-analytics-frontend)
+
+### R2D14
+I attempted to import a CSV file to my database within the project. I couldn't get it to work properly though and submitted the assessment. I included the commented out code that had my logic though. 
+
+[Pizza Analytics](https://github.com/torianne02/pizza-analytics)
