@@ -65,3 +65,6 @@ I started working on the React frontend of this take home coding assignment. I s
 I attempted to import a CSV file to my database within the project. I couldn't get it to work properly though and submitted the assessment. I included the commented out code that had my logic though. 
 
 [Pizza Analytics](https://github.com/torianne02/pizza-analytics)
+
+### R2D15
+I attempted to work on algorithm problems via HackerRank and CodeWars. I was unfortunately having a really hard time concentrating and thinking through the problems, so I didn't successfully live code for an hour. 🤷‍♀️ Oh well. I did read a few articles on algorithms and participated in CodeNewbies weekly discussion on Twitter. It was very rewarding. 
