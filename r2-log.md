@@ -76,13 +76,18 @@ Today I didn't accomplish any live coding, as I was busy packing and cleaning up
 I am camping at EDC but still found time to code for an hour. My fiance sat down with me (since we had no WIFI) and gave me tasks. I built a deck of cards in ruby as well as shuffling and dealing methods.
 
 ### R2D18
-I skipped this day. :(
+I skipped this day, was at EDC. :(
 ** will be adding on to the end **
 
 ### R2D19
-I skipped this day. :(
+I skipped this day, was at EDC. :(
 ** will be adding on to the end **
 
 ### R2D20
-I skipped this day. :(
+I skipped this day, was at EDC. :(
 ** will be adding on to the end **
+
+### R2D21
+I picked back up on my portfolio project. I created the contact form today, as well as the container for it. The form will not display on the page right now and I can't figure out why. A task to tackle tomorrow. I also created a thank you card to display after someone submits the contact form.
+
+[Portfolio Project](https://github.com/torianne02/victoria-fluharty-portfolio)
