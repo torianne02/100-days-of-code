@@ -62,6 +62,27 @@ I started working on the React frontend of this take home coding assignment. I s
 [Pizza Analytics Frontend](https://github.com/torianne02/pizza-analytics-frontend)
 
 ### R2D14
-I attempted to import a CSV file to my database within the project. I couldn't get it to work properly though and submitted the assessment. I included the commented out code that had my logic though. 
+I attempted to import a CSV file to my database within the project. I couldn't get it to work properly though and submitted the assessment. I included the commented out code that had my logic though.
 
 [Pizza Analytics](https://github.com/torianne02/pizza-analytics)
+
+### R2D15
+After coding a ton over the last few days, I decided to take today easy. I attempted to work on some coding algorithms, but was having a difficult time thinking through anything. I ended up reading a few blog posts about solving algorithms and participated in CodeNewbies weekly discussion.
+
+### R2D16
+Today I didn't accomplish any live coding, as I was busy packing and cleaning up for my upcoming trip to EDC. I did however, get some reading done at the airport before my flight about general computer science information (stacks, queues, etc.).
+
+### R2D17
+I am camping at EDC but still found time to code for an hour. My fiance sat down with me (since we had no WIFI) and gave me tasks. I built a deck of cards in ruby as well as shuffling and dealing methods.
+
+### R2D18
+I skipped this day. :(
+** will be adding on to the end **
+
+### R2D19
+I skipped this day. :(
+** will be adding on to the end **
+
+### R2D20
+I skipped this day. :(
+** will be adding on to the end **
