@@ -91,3 +91,9 @@ I skipped this day, was at EDC. :(
 I picked back up on my portfolio project. I created the contact form today, as well as the container for it. The form will not display on the page right now and I can't figure out why. A task to tackle tomorrow. I also created a thank you card to display after someone submits the contact form.
 
 [Portfolio Project](https://github.com/torianne02/victoria-fluharty-portfolio)
+
+### R2D22
+Today I prepared for my interview tomorrow morning by reviewing my coding assignment. I refactored some of the code and made sure I can explain it all.
+
+[Pizza Analytics](https://github.com/torianne02/pizza-analytics)
+[Pizza Analytics Frontend](https://github.com/torianne02/pizza-analytics-frontend)
