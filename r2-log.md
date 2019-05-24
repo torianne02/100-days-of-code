@@ -102,3 +102,8 @@ Today I prepared for my interview tomorrow morning by reviewing my coding assign
 I spent an hour this morning during my interview discussing and refactoring my code. I also worked on my portfolio site for 2 hours. I am so close to being finished. The only thing I have left is connecting GMAIL. I finally figured out how to get my images responsive and fixed the reason why my contact form wasn't appearing.
 
 [Portfolio Project](https://github.com/torianne02/victoria-fluharty-portfolio)
+
+### R2D24
+I decided to add a my interests section to my portfolio so I made some adjustments to the components today. I created a home component for my initial introduction. I placed my stack info and interests in my about me component. I also added a navbar brand. I still need to figure out how to add GMAIL to my site.
+
+[Portfolio Project](https://github.com/torianne02/victoria-fluharty-portfolio)
