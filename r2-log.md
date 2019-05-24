@@ -97,3 +97,8 @@ Today I prepared for my interview tomorrow morning by reviewing my coding assign
 
 [Pizza Analytics](https://github.com/torianne02/pizza-analytics)
 [Pizza Analytics Frontend](https://github.com/torianne02/pizza-analytics-frontend)
+
+### R2D23
+I spent an hour this morning during my interview discussing and refactoring my code. I also worked on my portfolio site for 2 hours. I am so close to being finished. The only thing I have left is connecting GMAIL. I finally figured out how to get my images responsive and fixed the reason why my contact form wasn't appearing.
+
+[Portfolio Project](https://github.com/torianne02/victoria-fluharty-portfolio)
