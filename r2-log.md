@@ -120,3 +120,6 @@ I skipped this day...sick and in Mammoth with parents.
 ### R2D27
 I skipped this day...sick and traveling home.
 ** will be adding on to the end **
+
+### R2D28
+I spent today reading articles on EmailJS. I have been still feeling very sick and didn't do any coding. I worked on applying for jobs and cold outreach emails. 
