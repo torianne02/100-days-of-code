@@ -107,3 +107,8 @@ I spent an hour this morning during my interview discussing and refactoring my c
 I decided to add a my interests section to my portfolio so I made some adjustments to the components today. I created a home component for my initial introduction. I placed my stack info and interests in my about me component. I also added a navbar brand. I still need to figure out how to add GMAIL to my site.
 
 [Portfolio Project](https://github.com/torianne02/victoria-fluharty-portfolio)
+
+### R2D25
+I spent the day attempting to figure out how I would like to get my contact form submitted in my portfolio site. I am thinking EmailJS but am still unsure.
+
+[EmailJS](https://www.emailjs.com/)
