@@ -116,3 +116,7 @@ I spent the day attempting to figure out how I would like to get my contact form
 ### R2D26
 I skipped this day...sick and in Mammoth with parents.
 ** will be adding on to the end **
+
+### R2D27
+I skipped this day...sick and traveling home.
+** will be adding on to the end **
