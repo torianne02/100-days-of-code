@@ -112,3 +112,7 @@ I decided to add a my interests section to my portfolio so I made some adjustmen
 I spent the day attempting to figure out how I would like to get my contact form submitted in my portfolio site. I am thinking EmailJS but am still unsure.
 
 [EmailJS](https://www.emailjs.com/)
+
+### R2D26
+I skipped this day...sick and in Mammoth with parents.
+** will be adding on to the end **
