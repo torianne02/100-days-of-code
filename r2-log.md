@@ -131,3 +131,8 @@ I didn't do any live coding again today. I read a few articles but was still fee
 I was feeling much better today. I spent a few hours working on the final piece of my portfolio site. I finally have my contact page done correctly. Then I started working on deploying my site to Github Pages. I haven't gotten it figured out yet, as it is going to my README.
 
 [Portfolio Project](https://github.com/torianne02/victoria-fluharty-portfolio)
+
+### R2D31
+I worked on officially getting my portfolio site deployed. I ended up switching from github pages to using heroku to deploy my site. I also made a few tweaks to the content on my about me page. I added code to open up links on new tabs rather than leaving my site. I'll be changing the site a lot I'm sure, but I'm happy for now. 
+
+[Portfolio Project](https://github.com/torianne02/victoria-fluharty-portfolio)
