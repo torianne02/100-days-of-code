@@ -122,4 +122,12 @@ I skipped this day...sick and traveling home.
 ** will be adding on to the end **
 
 ### R2D28
-I spent today reading articles on EmailJS. I have been still feeling very sick and didn't do any coding. I worked on applying for jobs and cold outreach emails. 
+I spent today reading articles on EmailJS. I have been still feeling very sick and didn't do any coding. I worked on applying for jobs and cold outreach emails.
+
+### R2D29
+I didn't do any live coding again today. I read a few articles but was still feeling pretty sick.
+
+### R2D30
+I was feeling much better today. I spent a few hours working on the final piece of my portfolio site. I finally have my contact page done correctly. Then I started working on deploying my site to Github Pages. I haven't gotten it figured out yet, as it is going to my README.
+
+[Portfolio Project](https://github.com/torianne02/victoria-fluharty-portfolio)
