@@ -133,6 +133,13 @@ I was feeling much better today. I spent a few hours working on the final piece 
 [Portfolio Project](https://github.com/torianne02/victoria-fluharty-portfolio)
 
 ### R2D31
-I worked on officially getting my portfolio site deployed. I ended up switching from github pages to using heroku to deploy my site. I also made a few tweaks to the content on my about me page. I added code to open up links on new tabs rather than leaving my site. I'll be changing the site a lot I'm sure, but I'm happy for now. 
+I worked on officially getting my portfolio site deployed. I ended up switching from github pages to using heroku to deploy my site. I also made a few tweaks to the content on my about me page. I added code to open up links on new tabs rather than leaving my site. I'll be changing the site a lot I'm sure, but I'm happy for now.
 
 [Portfolio Project](https://github.com/torianne02/victoria-fluharty-portfolio)
+
+### R2D32
+I spent an hour in the morning attempting to help my fiance figure out how to take XML data from a webpage and place it in a HTML table via a chrome extension. We were able to figure out how to get the data to communicate with the chrome extension, but the HTML table was not showing up properly.
+
+### R2D33
+My birthday!!! I spent an hour in the morning helping my fiance again. I played with the JavaScript and chrome dev tools to try and get the HTML table to show up properly. He eventually told me he had a CSS file for the extension, so we started playing with that. Still couldn't figure it out!
+ 
