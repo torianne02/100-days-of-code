@@ -142,4 +142,14 @@ I spent an hour in the morning attempting to help my fiance figure out how to ta
 
 ### R2D33
 My birthday!!! I spent an hour in the morning helping my fiance again. I played with the JavaScript and chrome dev tools to try and get the HTML table to show up properly. He eventually told me he had a CSS file for the extension, so we started playing with that. Still couldn't figure it out!
- 
+
+### R2D34
+I have an interview tomorrow, so I worked through some problems via CodeWars. I completed 7 Ruby katas, since I'll hopefully be interviewing in Ruby. I am still finding myself confusing Ruby and JavaScript. Grrr.
+
+[Consecutive letters](https://www.codewars.com/kata/5ce6728c939bf80029988b57)
+[String Scramble](https://www.codewars.com/kata/5822d89270ca28c85c0000f3)
+[Sum consecutives](https://www.codewars.com/kata/55eeddff3f64c954c2000059)
+[Sum of all the multiples of 3 or 5](https://www.codewars.com/kata/57f36495c0bb25ecf50000e7)
+[Sort by Last Char](https://www.codewars.com/kata/57eba158e8ca2c8aba0002a0)
+[Beginner - Lost Without a Map](https://www.codewars.com/kata/57eba158e8ca2c8aba0002a0)
+[Third Angle of a Triangle](https://www.codewars.com/kata/5a023c426975981341000014)
