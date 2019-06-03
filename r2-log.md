@@ -153,3 +153,4 @@ I have an interview tomorrow, so I worked through some problems via CodeWars. I 
 [Sort by Last Char](https://www.codewars.com/kata/57eba158e8ca2c8aba0002a0)
 [Beginner - Lost Without a Map](https://www.codewars.com/kata/57eba158e8ca2c8aba0002a0)
 [Third Angle of a Triangle](https://www.codewars.com/kata/5a023c426975981341000014)
+[Convert string to camel case](https://www.codewars.com/kata/517abf86da9663f1d2000003/solutions/ruby)
