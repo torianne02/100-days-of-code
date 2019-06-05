@@ -154,3 +154,11 @@ I have an interview tomorrow, so I worked through some problems via CodeWars. I 
 [Beginner - Lost Without a Map](https://www.codewars.com/kata/57eba158e8ca2c8aba0002a0)
 [Third Angle of a Triangle](https://www.codewars.com/kata/5a023c426975981341000014)
 [Convert string to camel case](https://www.codewars.com/kata/517abf86da9663f1d2000003/solutions/ruby)
+
+### R2D35
+I had my technical interview today. I unfortunately choked because of nerves and had a difficult time thinking through a simple problem. Afterwards I worked on the problem so that I can get my confidence up in knowing I could do it.
+
+### R2D36
+Today I realized I never updated the index.html of my portfolio site, so I updated that as well as the logo for the site. I made a plain VF logo using Adobe XD. I also looked over a few articles about Big O Notation.
+
+[Portfolio Project](https://github.com/torianne02/victoria-fluharty-portfolio)
