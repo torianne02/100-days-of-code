@@ -162,3 +162,8 @@ I had my technical interview today. I unfortunately choked because of nerves and
 Today I realized I never updated the index.html of my portfolio site, so I updated that as well as the logo for the site. I made a plain VF logo using Adobe XD. I also looked over a few articles about Big O Notation.
 
 [Portfolio Project](https://github.com/torianne02/victoria-fluharty-portfolio)
+
+### R2D37
+I spent an hour fixing console errors/warnings for my portfolio site. I found out what is wrong with my portfolio site's contact page. Heroku isn't reading my .env file, so I need to figure out how to use Heroku's congif variables. I also spent time typing out code snippets for my next blog post.
+
+[Portfolio Project](https://github.com/torianne02/victoria-fluharty-portfolio)
