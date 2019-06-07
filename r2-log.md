@@ -167,3 +167,8 @@ Today I realized I never updated the index.html of my portfolio site, so I updat
 I spent an hour fixing console errors/warnings for my portfolio site. I found out what is wrong with my portfolio site's contact page. Heroku isn't reading my .env file, so I need to figure out how to use Heroku's congif variables. I also spent time typing out code snippets for my next blog post.
 
 [Portfolio Project](https://github.com/torianne02/victoria-fluharty-portfolio)
+
+### R2D38
+I spent an hour working through ruby algorithm questions. I also fixed the problem with my portfolio sites contact page. I needed to create config variables with the heroku command line. As soon as I got that done, it worked!! Happy camper here! 
+
+[Portfolio Project](https://github.com/torianne02/victoria-fluharty-portfolio)
