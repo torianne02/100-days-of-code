@@ -169,6 +169,26 @@ I spent an hour fixing console errors/warnings for my portfolio site. I found ou
 [Portfolio Project](https://github.com/torianne02/victoria-fluharty-portfolio)
 
 ### R2D38
-I spent an hour working through ruby algorithm questions. I also fixed the problem with my portfolio sites contact page. I needed to create config variables with the heroku command line. As soon as I got that done, it worked!! Happy camper here! 
+I spent an hour working through ruby algorithm questions. I also fixed the problem with my portfolio sites contact page. I needed to create config variables with the heroku command line. As soon as I got that done, it worked!! Happy camper here!
 
 [Portfolio Project](https://github.com/torianne02/victoria-fluharty-portfolio)
+
+### R2D39
+I skipped this day ... friends wedding.
+** will be adding to the end **
+
+### R2D40
+I skipped this day ... spent time with bride and groom.
+** will be adding to the end **
+
+### R2D41
+I spent today reading lots of Ruby basics articles. I read about array iterators and also read a few articles in relation to tech interviews. I signed up for a career fair tomorrow as well and wrote a blog post. 
+
+### R2D42
+I went to a career fair today. I also worked through 5 Katas on CodeWars. I scheduled 2 more interviews today, so I'm really going to be cracking down on technical/algorithm practice and comp science rules.
+
+[Count the Monkeys!](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7/solutions/ruby)
+[How many lightsabers do you own?](https://www.codewars.com/kata/51f9d93b4095e0a7200001b8/solutions/ruby)
+[Reversed Words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e/solutions/ruby)
+[Split Strings](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/solutions/ruby)
+[Friend or Foe?](https://www.codewars.com/kata/55b42574ff091733d900002f/solutions/ruby)
