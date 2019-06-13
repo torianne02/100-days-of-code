@@ -182,7 +182,7 @@ I skipped this day ... spent time with bride and groom.
 ** will be adding to the end **
 
 ### R2D41
-I spent today reading lots of Ruby basics articles. I read about array iterators and also read a few articles in relation to tech interviews. I signed up for a career fair tomorrow as well and wrote a blog post. 
+I spent today reading lots of Ruby basics articles. I read about array iterators and also read a few articles in relation to tech interviews. I signed up for a career fair tomorrow as well and wrote a blog post.
 
 ### R2D42
 I went to a career fair today. I also worked through 5 Katas on CodeWars. I scheduled 2 more interviews today, so I'm really going to be cracking down on technical/algorithm practice and comp science rules.
@@ -192,3 +192,6 @@ I went to a career fair today. I also worked through 5 Katas on CodeWars. I sche
 [Reversed Words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e/solutions/ruby)
 [Split Strings](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/solutions/ruby)
 [Friend or Foe?](https://www.codewars.com/kata/55b42574ff091733d900002f/solutions/ruby)
+
+### R2D43
+Today I spent the day preparing my new blog post. I read a few articles on the topic and started editing the code I started writing a few days ago. Tomorrow I'll hopefully be putting it all together. 
