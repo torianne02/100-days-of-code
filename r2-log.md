@@ -182,7 +182,9 @@ I skipped this day ... spent time with bride and groom.
 ** will be adding to the end **
 
 ### R2D41
-I spent today reading lots of Ruby basics articles. I read about array iterators and also read a few articles in relation to tech interviews. I signed up for a career fair tomorrow as well and wrote a blog post.
+I spent today reading lots of Ruby basics articles. I read about array iterators and also read a few articles in relation to tech interviews. I signed up for a career fair tomorrow as well and wrote a blog post. I made some changes to the logic I had in my Pizza Analytics take home project.
+
+[Pizza Analytics](https://github.com/torianne02/pizza-analytics)
 
 ### R2D42
 I went to a career fair today. I also worked through 5 Katas on CodeWars. I scheduled 2 more interviews today, so I'm really going to be cracking down on technical/algorithm practice and comp science rules.
@@ -197,9 +199,7 @@ I went to a career fair today. I also worked through 5 Katas on CodeWars. I sche
 Today I spent the day preparing my new blog post. I read a few articles on the topic and started editing the code I started writing a few days ago. Tomorrow I'll hopefully be putting it all together.
 
 ### R2D44
-I spent the day prepping for an interview that I have tomorrow. I also have a one-on-one with a tech coach from my bootcamp tomorrow, so that I can prepare for an interview that I have on Monday. I looked up a few coding challenges I've had in the past and found the ones I'd like to discuss with her. I made some changes to the logic I had in my Pizza Analytics take home project.
-
-[Pizza Analytics](https://github.com/torianne02/pizza-analytics)
+I spent the day prepping for an interview that I have tomorrow. I also have a one-on-one with a tech coach from my bootcamp tomorrow, so that I can prepare for an interview that I have on Monday. I looked up a few coding challenges I've had in the past and found the ones I'd like to discuss with her.
 
 ### R2D45
 Today I had a last minute interview get scheduled. I had my meeting with the tech coach and we discussed the coding assignment for the last minute interview. Then I spent an hour creating the code I'd want to use. I also had an hour long coding interview and a half hour interview with questions about the browser.
