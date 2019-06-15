@@ -200,3 +200,8 @@ Today I spent the day preparing my new blog post. I read a few articles on the t
 I spent the day prepping for an interview that I have tomorrow. I also have a one-on-one with a tech coach from my bootcamp tomorrow, so that I can prepare for an interview that I have on Monday. I looked up a few coding challenges I've had in the past and found the ones I'd like to discuss with her. I made some changes to the logic I had in my Pizza Analytics take home project.
 
 [Pizza Analytics](https://github.com/torianne02/pizza-analytics)
+
+### R2D45
+Today I had a last minute interview get scheduled. I had my meeting with the tech coach and we discussed the coding assignment for the last minute interview. Then I spent an hour creating the code I'd want to use. I also had an hour long coding interview and a half hour interview with questions about the browser.
+
+https://repl.it/@torianne02/WeirdTrustingStrategy
