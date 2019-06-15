@@ -194,4 +194,9 @@ I went to a career fair today. I also worked through 5 Katas on CodeWars. I sche
 [Friend or Foe?](https://www.codewars.com/kata/55b42574ff091733d900002f/solutions/ruby)
 
 ### R2D43
-Today I spent the day preparing my new blog post. I read a few articles on the topic and started editing the code I started writing a few days ago. Tomorrow I'll hopefully be putting it all together. 
+Today I spent the day preparing my new blog post. I read a few articles on the topic and started editing the code I started writing a few days ago. Tomorrow I'll hopefully be putting it all together.
+
+### R2D44
+I spent the day prepping for an interview that I have tomorrow. I also have a one-on-one with a tech coach from my bootcamp tomorrow, so that I can prepare for an interview that I have on Monday. I looked up a few coding challenges I've had in the past and found the ones I'd like to discuss with her. I made some changes to the logic I had in my Pizza Analytics take home project.
+
+[Pizza Analytics](https://github.com/torianne02/pizza-analytics)
