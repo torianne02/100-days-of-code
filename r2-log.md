@@ -204,9 +204,10 @@ I spent the day prepping for an interview that I have tomorrow. I also have a on
 ### R2D45
 Today I had a last minute interview get scheduled. I had my meeting with the tech coach and we discussed the coding assignment for the last minute interview. Then I spent an hour creating the code I'd want to use. I also had an hour long coding interview and a half hour interview with questions about the browser.
 
-https://repl.it/@torianne02/WeirdTrustingStrategy
+[rock, paper, scissors](https://repl.it/@torianne02/WeirdTrustingStrategy)
 
 ### R2D46
-I revised the code from the coding challenge yesterday. For some reason the conditional statement was not working correctly (never entering on of the scenarios). I was able to figure out why and made the changes.
+I revised the code from the coding challenge yesterday. For some reason the conditional statement was not working correctly (never entering on of the scenarios). I was able to figure out why and made the changes. I created a project repo on GitHub to expand on this specific project. I want to run with the idea.
 
-https://repl.it/@torianne02/WeirdTrustingStrategy
+[rock, paper, scissors](https://repl.it/@torianne02/WeirdTrustingStrategy)
+[rock-paper-scissors](https://github.com/torianne02/rock-paper-scissors)
