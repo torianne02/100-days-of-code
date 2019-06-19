@@ -216,3 +216,6 @@ I revised the code from the coding challenge yesterday. For some reason the cond
 Today I spent over an hour researching and writing my blog post about ES6 concepts, `let` and `const`. I took all of my previously written code for the article and tested it in repl.it. I finished the post and it will go live tomorrow.
 
 [Breaking Down ES6: let and const](https://dev.to/torianne02/breaking-down-es6-let-and-const-1al6)
+
+### R2D48
+My blog post went live and I'm really proud of it! I spent the day today preparing for an hour long pair-programming technical interview. I learned the concepts of a Set in Ruby and practiced using it. I had the interview, which was in Java. The interviewer wrote the code while I discussed what we should be writing. I also started refactoring my fiance's code for his chrome extension. The repo is private, or else I'd share it here. 
