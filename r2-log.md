@@ -211,3 +211,8 @@ I revised the code from the coding challenge yesterday. For some reason the cond
 
 [rock, paper, scissors](https://repl.it/@torianne02/WeirdTrustingStrategy)
 [rock-paper-scissors](https://github.com/torianne02/rock-paper-scissors)
+
+### R2D47
+Today I spent over an hour researching and writing my blog post about ES6 concepts, `let` and `const`. I took all of my previously written code for the article and tested it in repl.it. I finished the post and it will go live tomorrow.
+
+[Breaking Down ES6: let and const](https://dev.to/torianne02/breaking-down-es6-let-and-const-1al6)
