@@ -222,3 +222,21 @@ My blog post went live and I'm really proud of it! I spent the day today prepari
 
 ### R2D49
 I continued to look through my fiance's code, but didn't actually fix anything physically. I read a few articles on DEV. Otherwise, I took the day off from live coding. Sometimes we need a mental break. The job search is really starting to take an emotional toll on me, so I'm trying to take breaks when needed.
+
+### R2D50
+I added a new section to my portfolio site's about me page. I also messed with the styling a little bit. I added a color to my bold text and added bold text to begin with. I also worked on kata's on CodeWars. Most were Ruby, but I also worked on a few SQL kata's as well.
+
+[Portfolio Project](https://github.com/torianne02/victoria-fluharty-portfolio)
+[Convert a Boolean to a String](https://www.codewars.com/kata/551b4501ac0447318f0009cd)
+[Build a square](https://www.codewars.com/kata/59a96d71dbe3b06c0200009c)
+[Sum of Parts](https://www.codewars.com/kata/sums-of-parts/train/ruby)
+[Convert a string to an array](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d)
+[Convert boolean values to strings 'Yes' or 'No'.](https://www.codewars.com/kata/53369039d7ab3ac506000467)
+[Convert a String to a Number!](https://www.codewars.com/kata/544675c6f971f7399a000e79)
+[Convert a Number to a String!](https://www.codewars.com/kata/5265326f5fda8eb1160004c8)
+[Easy SQL - Ordering](https://www.codewars.com/kata/593ed37c93350098d600001d)
+[Easy SQL: Counting and Grouping](https://www.codewars.com/kata/594633020a561e329a0000a2)
+[1. Find all active students](https://www.codewars.com/kata/5809b9ef88b750ab180001ec)
+[SQL Basics: Simple WHERE and ORDER BY](https://www.codewars.com/kata/5809508cc47d327c12000084)
+[SQL Basics: Simple SUM](https://www.codewars.com/kata/58110da0009b4f7ef80000ad)
+[Easy SQL: LowerCase](https://www.codewars.com/kata/594800ba6fb152624300006d)
