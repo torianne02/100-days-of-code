@@ -240,3 +240,6 @@ I added a new section to my portfolio site's about me page. I also messed with t
 [SQL Basics: Simple WHERE and ORDER BY](https://www.codewars.com/kata/5809508cc47d327c12000084)
 [SQL Basics: Simple SUM](https://www.codewars.com/kata/58110da0009b4f7ef80000ad)
 [Easy SQL: LowerCase](https://www.codewars.com/kata/594800ba6fb152624300006d)
+
+### R2D51
+I continued to refactor my fiance's chrome extension code. We attempted creating a second table from XML table and the formatting uses the same code as the previous table, but it isn't working. I spent an hour attempting to change little things here and there and nothing seemed to do the trick.
