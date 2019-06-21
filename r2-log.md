@@ -243,3 +243,8 @@ I added a new section to my portfolio site's about me page. I also messed with t
 
 ### R2D51
 I continued to refactor my fiance's chrome extension code. We attempted creating a second table from XML table and the formatting uses the same code as the previous table, but it isn't working. I spent an hour attempting to change little things here and there and nothing seemed to do the trick.
+
+### R2D52
+Today I spent the day completing the Ruby tutorial on sololearn. I earned my certification and updated my LinkedIn. I had never learned about `lambda`, `procs`, and `structs` before this course! It also helped me gain a little bit of a better understanding of recursion.
+
+[Ruby Tutorial](https://www.sololearn.com/Course/Ruby/)
