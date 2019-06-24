@@ -258,3 +258,4 @@ I skipped this day, needed a personal weekend.
 ** will be adding on to the end **
 
 ### R2D55
+Today I looked into Facebook API's and tried brainstorming ideas for a project to build using one of them. I can't think of anything clever at the moment. I also started writing the code for my next blog post for my ES6 series. 
