@@ -248,3 +248,13 @@ I continued to refactor my fiance's chrome extension code. We attempted creating
 Today I spent the day completing the Ruby tutorial on sololearn. I earned my certification and updated my LinkedIn. I had never learned about `lambda`, `procs`, and `structs` before this course! It also helped me gain a little bit of a better understanding of recursion.
 
 [Ruby Tutorial](https://www.sololearn.com/Course/Ruby/)
+
+### R2D53
+I skipped this day, needed a personal weekend.
+** will be adding on to the end **
+
+### R2D54
+I skipped this day, needed a personal weekend.
+** will be adding on to the end **
+
+### R2D55
