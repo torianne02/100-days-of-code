@@ -258,4 +258,12 @@ I skipped this day, needed a personal weekend.
 ** will be adding on to the end **
 
 ### R2D55
-Today I looked into Facebook API's and tried brainstorming ideas for a project to build using one of them. I can't think of anything clever at the moment. I also started writing the code for my next blog post for my ES6 series. 
+Today I looked into Facebook API's and tried brainstorming ideas for a project to build using one of them. I can't think of anything clever at the moment. I also started writing the code for my next blog post for my ES6 series.
+
+### R2D56
+Today I wrote my blog post for the spread operator in JavaScript. I finished writing all the code snippets for it, researched the topic, and wrote the post. It went live on Dev.to.
+
+[Breaking Down ES6: Spread Operator](https://dev.to/torianne02/breaking-down-es6-spread-operator-k1m)
+
+### R2D57
+I helped my fiance complete his chrome extension. We got both tables working and looking like they should. I plan on going through and refactoring the code.
