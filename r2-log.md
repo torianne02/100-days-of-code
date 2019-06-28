@@ -270,3 +270,10 @@ I helped my fiance complete his chrome extension. We got both tables working and
 
 ### R2D58
 I found a social media app tutorial that I want to complete. It should take about 12 hours to complete. I spent an hour setting up my local environment to complete the project (adding extensions to VS code, etc.)
+
+### R2D59
+I spent a few hours this morning working on multiple things. I began my morning by working on two Kata's. When I was having trouble I decided to switch over to working on my rock, paper, and scissors CLI project. I've got it working, but plenty of kinks to work out still.
+
+[rock-paper-scissors](https://github.com/torianne02/rock-paper-scissors)
+[Sort odd and even numbers in different order](https://www.codewars.com/kata/5a1cb5406975987dd9000028)
+[Find all pairs](https://www.codewars.com/kata/5c55ad8c9d76d41a62b4ede3)
