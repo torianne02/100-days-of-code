@@ -267,3 +267,6 @@ Today I wrote my blog post for the spread operator in JavaScript. I finished wri
 
 ### R2D57
 I helped my fiance complete his chrome extension. We got both tables working and looking like they should. I plan on going through and refactoring the code.
+
+### R2D58
+I found a social media app tutorial that I want to complete. It should take about 12 hours to complete. I spent an hour setting up my local environment to complete the project (adding extensions to VS code, etc.)
