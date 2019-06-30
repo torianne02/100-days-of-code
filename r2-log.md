@@ -277,3 +277,7 @@ I spent a few hours this morning working on multiple things. I began my morning 
 [rock-paper-scissors](https://github.com/torianne02/rock-paper-scissors)
 [Sort odd and even numbers in different order](https://www.codewars.com/kata/5a1cb5406975987dd9000028)
 [Find all pairs](https://www.codewars.com/kata/5c55ad8c9d76d41a62b4ede3)
+
+### R2D60
+My parents came in to visit. Didn't code.
+** will be adding on to the end **
