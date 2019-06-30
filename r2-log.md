@@ -283,6 +283,7 @@ My parents came in to visit. Didn't code.
 ** will be adding on to the end **
 
 ### R2D61
-I spent an hour of my day completing the DEV.to daily challenge. I had already completed the Kata it was based on, but I refactored my solution, not once but twice.
+I spent an hour of my day completing the DEV.to daily challenge. I had already completed the Kata it was based on, but I refactored my solution, not once but twice.I also refactored my very first project, a Ruby CLI gem. It's great to see how far I've come in the last year.
 
 [Daily Challenge #3 - Vowel Counter](https://dev.to/torianne02/comment/cfji)
+[CLI-Project-Day-Library](https://github.com/torianne02/CLI-Project-Day-Library)
