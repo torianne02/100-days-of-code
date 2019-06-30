@@ -281,3 +281,8 @@ I spent a few hours this morning working on multiple things. I began my morning 
 ### R2D60
 My parents came in to visit. Didn't code.
 ** will be adding on to the end **
+
+### R2D61
+I spent an hour of my day completing the DEV.to daily challenge. I had already completed the Kata it was based on, but I refactored my solution, not once but twice.
+
+[Daily Challenge #3 - Vowel Counter](https://dev.to/torianne02/comment/cfji)
