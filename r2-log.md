@@ -287,3 +287,14 @@ I spent an hour of my day completing the DEV.to daily challenge. I had already c
 
 [Daily Challenge #3 - Vowel Counter](https://dev.to/torianne02/comment/cfji)
 [CLI-Project-Day-Library](https://github.com/torianne02/CLI-Project-Day-Library)
+
+### R2D62
+Today I continued working through the kinks of my rock, paper, scissors CLI application. I got everything that I originally wanted to accomplish done! I am thinking of a few other things to add in the future. It was nice getting to work on Ruby basics again. I also made a small change to my Ruby gem.
+
+[CLI-Project-Day-Library](https://github.com/torianne02/CLI-Project-Day-Library)
+[rock-paper-scissors](https://github.com/torianne02/rock-paper-scissors)
+
+### R2D63
+I spent the day today writing my lastest blog post. I created the code for the post and did all the research. I wrote the post and published it. Busy, busy day.
+
+[Breaking Down ES6: Arrow Functions](https://dev.to/torianne02/breaking-down-es6-arrow-functions-m5g)
